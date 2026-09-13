@@ -23,11 +23,6 @@ Und eine Institution, in der besonders viele persönliche Daten ausgetauscht wer
 * Tutanota-Familienoption
 * Proton Family
 
-<div class="absolute bottom-7 left-1/2 flex -translate-x-1/2 items-end gap-14">
-	<img src="./assets/familie-klassisch-kreide.svg" class="h-36" alt="Handgezeichnete Familie" />
-	<img src="./assets/familie-divers-kreide.svg" class="h-36" alt="Handgezeichnete diverse Familie" />
-</div>
-
 <!-- 
 Interessante Profildaten für Werbekunden
 Viele große und kleine Firmen sehen Familien als interessante Zielgruppe für zusätzliche Dienste.
@@ -51,6 +46,11 @@ Lock-in-Effekt: Kinder bleiben beim Anbieter, Eltern legen bei der Geburt eine E
 * E-Mail-Provider
 * Sonstiges: DSL, Netflix
 
+<!-- 
+Wir nähern uns ausgehend von den Daten.
+Wir konzentrieren uns auf die engere Familie, aber viele Probleme sind übertragbar
+-->
+
 ---
 
 # Welche Personen gehören zur Familien-IT?
@@ -64,22 +64,26 @@ layout: section
 ## Gibt es die eine Lösung?
 
 ---
-layout: two-cols-header
+
+# Zielkonflikte in der Familien IT
+
+```mermaid {theme: 'neutral', scale: 0.6}
+radar-beta
+	axis Geld, Aufwand, Privatsphaere, Digitale_Unabhaengigkeit, Sicherheit
+	max 5
+```
+
 ---
 
-# Lösungsraum
+# Das magische Vieleck der Familien-IT
 
-::left::
-
-# Prioritäten
 * Geld
 * Aufwand
 * Privatsphäre
 * Digitale Unabhängigkeit
-* Sicherheit (auch in Ausnahmefällen)
-* u. v. m.
+* Sicherheit
 
-::right::
+---
 
 # Fragen
 * Wie setze ich Prioritäten?
@@ -88,12 +92,12 @@ layout: two-cols-header
 * Wie viel Aufwand und Energie bin ich bereit zu investieren?
 * Alles in ein Ökosystem? Oder lieber aufteilen?
 
-
 <!-- 
-Man kann nicht alle Dimensionen gleichermaßen erfüllen.
+Digitale Ünabhängigkeit nur eine von vielen Prioritäten
+Manche Fragen ergeben sich automatisch
+Man kann nicht alle Dimensionen zu 100% erfüllen.
 Prioritäten setzen
-Hängt von der Familie ab.
-Gegenseitige Abhängigkeiten
+eventuell werden Prioritäten durch äußere Zwänge gesetzt
 -->
 
 ---
@@ -105,10 +109,7 @@ layout: section
 
 ---
 
-<!-- 
-Wir nähern uns ausgehend von den Daten.
-Wir konzentrieren uns auf die engere Familie, aber viele Probleme sind übertragbar
--->
+
 
 ---
 

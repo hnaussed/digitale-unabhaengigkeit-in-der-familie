@@ -10,51 +10,65 @@ Hier aufzählen:
 * Ehepartner, Kinder und eigene Eltern, Verwandte
 * ...
 
-
-
-
-
 # Gibt es die eine IT-Lösung?
-## Die drei Dimensionen: Geld, Aufwand und Privatsphäre
+## Die drei+X Dimensionen: Geld, Aufwand und Privatsphäre Verfügbarkeit  und mehr
   * Was kostet es, wenn man keine Google oder Microsoft Dienste verwenden will? 
   * Ist selber hosten eine Option?
   * Wie sieht es mit dem Aufwand aus?
   * Alles bei einem Dienstleister oder aufteilen?
 
----
+## Zusatzliche Hürden bei Familien
+Das mit den Prioritäten ist auch bei Einzelersonen so aber:
+
+* Manche Dimensionen sind konträr: Kostenlose, sichere, datensparsame Lösung die alle Bedürfnisse abdeckt.
+* Konsensfindung in der Familie
+* Unterschiedliche Prioritäten in der Familie
+* Unterschiedliches Wissen in der Familie
 
 ## Zwischenfazit
-Wahrscheinlich nicht, Familien-IT kann sehr variieren und hängt von den Möglichkeiten und Prioritäten ab.
+Familien-IT kann sehr variieren und hängt von den Möglichkeiten und Prioritäten ab.
+Alles was wir bisher gehört haben verliert nicht an Gültigkeit
 
----
+Aber zusätzliche Hürden und Probleme
 
-# Empfehlungen
+# Tiefergende Betrachtung:
+
+* Problem: Unterschiedliche Vorlieben und Kenntnissstand in Familie
 
 ## "Der Familien-Administrator:in"
-* Gelebte Praxis
-* Arbeitsteilung
+Der Punkt ist neu
+
+* Gelebte Wirklichkeit
+* Arbeitsteilung: Wissen verteilt
 * Single Point of Failure
 * Auch eine Form der digitalen Abhängigkeit
 * Aus verschiedenen Gründen schwierig
+* Laesst sich nicht immer vermeiden
+* Selbstverwirklichung und Hobby
 * Siehe auch Notfälle und Ausfall
 
----
 
 ## Dokumentation der Familien-IT
-* Dokumentation der Familien-IT
+* Dokumentation der Familien-IT ist wichtig
 * Notfalls-Accounts und Recovery
-* Zuständigkeiten klären: Siehe auch "Der einzelne Administrator, der alles macht"
+* Zuständigkeiten klären und dokumentieren: Siehe auch "Der einzelne Administrator, der alles macht"
+* Backup BestPractise bedenken
+* Kenntnisstand der Familie berücksichten
+* Via Papier, Keepass
+* Notfall-Übung
+
+Siehe Beispiel aus Folie
+
+Wenn man da schon dabei ist, kann man direkt auch klären wo die Patientenverfügung, Kontodaten, Versicherungsdaten und das Testament liegen
  
----
 
 ## Sicherheit in der Familien-IT
 * Was und warum ist das wichtig?
 * Man ist nicht allein
 * Schwächste Glied der Kette
 
---- 
 
-### Risiken und Best Practices
+### Risiken und Best Practices ( eventuell Rauslassen )
 * Einfache und unsichere Passwörter vermeiden, nutze:
   * SSO
   * 2FA
@@ -65,23 +79,24 @@ Wahrscheinlich nicht, Familien-IT kann sehr variieren und hängt von den Möglic
   * Lieber einzelne Accounts
   * Wenn nötig, gemeinsamer Passwortmanager 
   
----
 
-### Backups ( Kein Backup, kein Mitleid )
+### Backups 
 * Für den Worst Case
 * Was ist wichtig? z,B. Dokumente, Emails  und Fotos? Was kann man so wiederherstellen
 * Zugangsdaten, aber: Passwörter im Klartext zu speichern, ist auch nicht sicher.
+* Recovery und Dokumentation
 
---
+
+
 
 ### Zugriffsberechtigungen 
  * Relevant auch für Scheidung oder wenn sich ein Kind die Familien-IT verlässt
  * Einen allmächtigen Administrator sollte man vermeiden
 
 
-## Privatsphäre in der Familie
+## Privatsphäre in der Familie ( eventuell Rauslassen )
 
-###  Kinder als eigene Personen
+###  Kinder als eigene Personen ( eventuell rauslassen )
 * Datenschutz
 * Einwilligung
 * Fotos
@@ -89,11 +104,10 @@ Wahrscheinlich nicht, Familien-IT kann sehr variieren und hängt von den Möglic
 * Übergang zu mehr Selbstständigkeit.
 
 
-
-## Portabilität
+## Portabilität ( Rauslassen )
 * Möchte ich einfach den Anbieter wechseln können? Oder bevorzuge ich eine bequeme LockIn Lösung, die auch Vorteile bietet.
 
-# Notfälle und Ausfall: Was passiert bei Krankheit, Tod, Trennung, verlorenem Smartphone oder gesperrtem Konto?
+# Notfälle: Was passiert bei Krankheit, Tod, Trennung, 
 Klären, ob die Empfehlungen helfen, diese fundamentalen Probleme zu lösen.
 
 Frage:
@@ -101,7 +115,21 @@ Frage:
 "Kann jemand die Familien-IT nachhaltig sabotieren?"
 "Kann eine einzelne Person aus der Familien-IT ausscheiden und ihre Daten mitnehmen?"
 
+Siehe auch digitales Erbe
+Siehe Dokumentation
+Recovery mit der Familie üben
+
+
 # Notfall 2: Was passiert wenn der Account gesperrt wird?
+Nicht jeder arbeitet beim Internationalen Gerichtshhof, aber die Folgen sind dramatisch.
+
+Chatgruppe mit Fotos
+Familiengalerie
+Gemeinsame Dokumente die man eingescannt hat
+
+* Siehe Backup und Recovery
+* 
+
 
 # Beispielefamilien: 
 ## Die Google-Familie (kostengünstig und bequem)

@@ -4,12 +4,12 @@
 Interessierte Laien, nicht die Experten des CCC
 
 # Ziel
-Das muss ich überlegen
+
 
 # Einnstiegsidee
 Bisher betraffen die Vorträge des DiDays eher Privatpersonen und den Einzelnen: Aber es gibt ja auch Familien
 
-# Digitale Unäbhängigkeit in der Famlilie: Warum ist das wichtig? Und wie betrifft es Familien
+# Digitale Unäbhängigkeit in der Famlilie: Warum ist das wichtig? Und wie betrifft sie Familien
 
 # Überschneidungungen mit Privacy?
 
@@ -38,6 +38,8 @@ Bisher betraffen die Vorträge des DiDays eher Privatpersonen und den Einzelnen:
 * Familien im Blick von Google und Microsoft, Angebote speziel für Familien
   * Familien sind eine Zielgruppe
 * Das Problem des Familien-Administrators: Die Abhängigkeit von einer Person
+  * Dokumentation ist wichtig
+  * Digitaler Nachlass
 * Gemeinsame Accounts und Passwörter,
   * Wann und warum ist das problematisch?
 * Zugriffsberechtigungen
