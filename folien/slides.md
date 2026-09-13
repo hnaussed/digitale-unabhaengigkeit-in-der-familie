@@ -158,7 +158,8 @@ Die Dokumentation der Familien-IT ist wichtig.
 
 ---
 
-# Notfälle: Was passiert bei Krankheit, Tod, Trennung
+# Notfälle: Was passiert bei Krankheit, Tod, Trennung und Urlaub
+
 
 
 ---
