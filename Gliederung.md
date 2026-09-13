@@ -107,7 +107,7 @@ Wenn man da schon dabei ist, kann man direkt auch klären wo die Patientenverfü
 ## Portabilität ( Rauslassen )
 * Möchte ich einfach den Anbieter wechseln können? Oder bevorzuge ich eine bequeme LockIn Lösung, die auch Vorteile bietet.
 
-# Notfälle: Was passiert bei Krankheit, Tod, Trennung, 
+# Notfälle: Was passiert bei Krankheit, Tod, Trennung
 Klären, ob die Empfehlungen helfen, diese fundamentalen Probleme zu lösen.
 
 Frage:
