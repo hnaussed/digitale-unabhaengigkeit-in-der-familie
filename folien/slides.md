@@ -114,3 +114,6 @@ layout: section
 ---
 
 # Quellen und weiterführende Informationen
+https://www.my-it-brain.de/wordpress/dokumentation-fuer-den-notfall-bzw-das-digitale-erbe/
+https://www.my-it-brain.de/wordpress/nerds-gefaehrden-die-digitale-souveraenitaet-ihrer-familie/
+
