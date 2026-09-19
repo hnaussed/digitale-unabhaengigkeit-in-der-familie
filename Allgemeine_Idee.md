@@ -61,9 +61,4 @@ Bisher betraffen die Vorträge des DiDays eher Privatpersonen und den Einzelnen:
 * Portabilität: Möchte ich einfach den Anbieter wechseln können? Oder bevorzuge ich eine bequeme LockIn Lösung, die auch Vorteile bietet.
 * Sicherheit in der FamilienIT
 
-# Quellen:
-https://programm.froscon.org/froscon2026/talk/9d8cd41d-b647-437c-866d-ed5788c57205/
 
-# TODO
-Diesen Vortrag angucken "Nerds gefährden die digitale Souveränität ihrer Familie" 
-https://programm.froscon.org/froscon2026/talk/9d8cd41d-b647-437c-866d-ed5788c57205/
