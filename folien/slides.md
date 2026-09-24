@@ -23,10 +23,14 @@ Und eine Institution, in der besonders viele persönliche Daten ausgetauscht und
 * Tutanota-Familienoption
 * Proton Family
 
+* BSI
+
 <!-- 
+Unterschiedliche Schwerpunkte
 Interessante Profildaten für Werbekunden
 Viele große und kleine Firmen sehen Familien als interessante Zielgruppe für zusätzliche Dienste.
 Lock-in-Effekt: Kinder bleiben beim Anbieter, Eltern legen bei der Geburt eine E-Mail-Adresse an.
+Auch das BSI hat Informationen zur Familien IT
 -->
 
 
@@ -42,10 +46,10 @@ Lock-in-Effekt: Kinder bleiben beim Anbieter, Eltern legen bei der Geburt eine E
 # Dienste und IT-Infrastruktur
 * Messenger
 * Passwort-Manager
-* Cloudspeicher
+* Cloudspeicher ( z.B. für Fotos, Dokumente )
 * E-Mail-Provider
 * Streaming-Dienste
-* Internet-Provicder
+* Internet-Provider
 
 <!-- 
 Wir nähern uns ausgehend von den Daten.
@@ -54,6 +58,9 @@ Wir nähern uns ausgehend von den Daten.
 ---
 
 # Welche Personen gehören zur Familien-IT?
+
+![Familie Vielfalt](./family-diversity.svg)
+
 * Familie: Ehepartner und Kinder
 * Eigene Eltern und Verwandte: Großeltern, Onkel, Tanten usw.
 * Freunde und Bekannte: enge Freunde, Nachbarn usw.
@@ -109,6 +116,10 @@ Scheidung und Verlassen der Familie
 
 Es macht Sinn Familien genauer zu betrachten
 
+<!--
+Familien verdienen eine besondere betrachtung
+-->
+
 
 ---
 layout: section
@@ -117,16 +128,16 @@ layout: section
 # Von der Betrachtung zur Praxis
 
 <!-- 
-Wenn es schon nicht die eine Lösung gibt, gibt es zumindest Empfehlungen 
+TODO: Klingt blöd
 -->
 
 ---
 
 # Das Familienadministrator:in Problem
 
+* Selbstverwirklichung und Hobby
 * Single Point of Failure
 * Auch eine Form der digitalen Abhängigkeit
-* Selbstverwirklichung und Hobby
 
 Bei Problemen sind wichtige Daten nicht verfügbar
 
@@ -151,11 +162,11 @@ Die Dokumentation der Familien-IT ist wichtig.
 * Kenntnisstand der Familie berücksichtigen
 * Review durch Familienmitglieder
 * Recovery üben
+* Teil des Notfalls-Ordners
 
 <!--
-
  Man kann direkt anfangen noch andere Sachen zu dokumentieren, 
-Bankdaten, Versicherung usw
+ Bankdaten, Versicherung usw
 -->
 
 ---
@@ -165,7 +176,7 @@ Bankdaten, Versicherung usw
 * Niedrigschwellig: USB-Stick mit Text-Dokumenten, PDF, Papier
 * Backup-Best-Practices beachten
 * Sicherheit nicht vergeressen
-* Aktualisierung und Testlauf sind wichtig
+* Aktualisierung und Updates sind wichtig
 
 <!-- 
 
@@ -176,10 +187,12 @@ Bankdaten, Versicherung usw
 # Notfälle: Was passiert bei Krankheit, Tod, Trennung und Urlaub
 
 <!--
+Die Auflistung ist nicht vollständig
+
 Der Tod und Krankheit wird oft ignoriert, aber es kann auch sein, daß ein Familienmitglied nicht greifbar ist.
 
 Das Internet geht nicht, aber keiner weiß das Passwort der Fritzbox.
-Oder man einen IT-Experten in der Familie, weiß die Familie vielleicht gar nicht, welche blinkende Kästchen im Keller dafür zustandig ist.
+Es ist unklar, welche blinkende Kästchen im Keller dafür zustandig ist.
 
 Kein Zugriff oder Verlust von Dokumenten und Photos weil man auf die Accounts nicht zugreifen kann.
 Passwörter für verschlüsselte Dokumente fehlen.
@@ -187,9 +200,9 @@ Passwörter für verschlüsselte Dokumente fehlen.
 Deswegen ist die Dokumentation so wichtig
 Das macht dann auch die Qualität der Dokumentation aus
 
-Gleichzeitig bieten manche Cloud-Dienst leister für Fälle Vertretungs und Recovery-Optionen an. Die sollte man in der Dokumenation erwäjmem
+Gleichzeitig bieten manche Cloud-Dienst leister für Fälle Vertretungs und Recovery-Optionen an. Die sollte man in der Dokumenation erwähmem
 
-Bei Trennung kommen noch Problem der Sabotasche dazu
+Bei Trennung kommen noch Problem der Sabotage dazu
 Accounts werden gesperrt, Dokumente gelöscht usw
 
 
@@ -201,6 +214,7 @@ Accounts werden gesperrt, Dokumente gelöscht usw
 
 <!-- 
 Betrifft auch Einzelpersonen
+Man muss nicht beim Internatiolen Gerichtshof arbeiten um seinen account zu verlieren
 
 -->
 
@@ -219,13 +233,14 @@ Betrifft auch Einzelpersonen
 # Fazit
 * Erste Schritte:
   * Prioritäten setzen
+  * Klären, was wichtig ist
   * Dokumentation und Inventar erstellen
   * Wichtige Passwörter und Accounts "sicher" dokumentieren
-  * Recovery-Optionen klären
+  * Recovery-Optionen klären und einrichten
   * Rollen und Zuständigkeiten klären
-  * Klären, was wichtig ist
   * Backups einrichten
 
+  * Digitaler Nachlass
 
 <!-- Der heutige Vortrag hat eine leicht andere Wendung genommen -->
 

@@ -13,3 +13,5 @@ https://www.test.de/Digitaler-Nachlass-Facebook-Instagram-Google-Konten-vererben
 Recherche: ParentTech
 
 Recherche Digitaler Nachlass
+
+BSI einbinden:  https://www.bsi.bund.de/SharedDocs/Downloads/DE/BSI/Publikationen/Broschueren/Wegweiser_Checklisten_Flyer/Wegweiser_kompakt_digitaler_Familienalltag.pdf?__blob=publicationFile&v=8
