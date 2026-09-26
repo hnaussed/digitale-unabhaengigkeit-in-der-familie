@@ -15,51 +15,60 @@ Und die zugehörigen Dienste nutzen wir ebenfalls nicht allein.
 Und eine Institution, in der besonders viele persönliche Daten ausgetauscht und geteilt werden ist die Familie.
 -->
 ---
+layout: section
+---
+
+# Motivation
+---
+
 
 # Die Familie im Blick von Google, Microsoft und Co.
-* Google Family Group
+* Google Family Group und Google CC
 * Microsoft Family
 * Apple Family Sharing
-* Tutanota-Familienoption
 * Proton Family
 
-* BSI
 
 <!-- 
-Unterschiedliche Schwerpunkte
+Unterschiedliche Schwerpunkte und Fokus
 Interessante Profildaten für Werbekunden
 Viele große und kleine Firmen sehen Familien als interessante Zielgruppe für zusätzliche Dienste.
 Lock-in-Effekt: Kinder bleiben beim Anbieter, Eltern legen bei der Geburt eine E-Mail-Adresse an.
-Auch das BSI hat Informationen zur Familien IT
+Auch das BSI und Verbraucherzentralen habeb Informationen zur Familien IT
 -->
 
 
 ---
 
 # Die digitalen Daten einer Familie
+
 * Bilder, Filme und Dokumente
 * Accounts, Passwörter und Zugangsdaten
 * Kalenderdaten
 * Kontakte
 * Chat-Nachrichten
 
+---
+
 # Dienste und IT-Infrastruktur
-* Messenger
-* Passwort-Manager
 * Cloudspeicher ( z.B. für Fotos, Dokumente )
 * E-Mail-Provider
+* Messenger
 * Streaming-Dienste
 * Internet-Provider
+* Passwort-Manager
 
 <!-- 
-Wir nähern uns ausgehend von den Daten.
+Vieles kommt uns bekannt vor
 -->
 
 ---
 
 # Welche Personen gehören zur Familien-IT?
 
-![Familie Vielfalt](./family-diversity.svg)
+![Familie Vielfalt](./pictures/family_reunion.png)
+
+Familie ist vielfältig!
 
 * Familie: Ehepartner und Kinder
 * Eigene Eltern und Verwandte: Großeltern, Onkel, Tanten usw.
@@ -73,19 +82,18 @@ Wir nähern uns ausgehend von den Daten.
 
 ```mermaid {theme: 'neutral', scale: 0.6}
 radar-beta
-	axis Geld, Aufwand, Privatsphaere, Digitale_Unabhaengigkeit, Sicherheit, Verfuegbarkeit
+	axis Kosten, Aufwand, Privatsphaere, Digitale_Unabhaengigkeit, Sicherheit, Verfuegbarkeit
 	max 5
 ```
-
+<!-- Digitale Unabhängigkeit ist nur eins von vielen Zielen-->
 ---
 layout: two-cols-header
 ---
-
 ::left::
-# Fragen
-* Wie setze ich Prioritäten?
+# Zielkonflikte
+* Wie setze man als Familie Prioritäten?
 * Ziele sind konträr
-* Bin ich bereit, Geld zu bezahlen, und wenn ja, wie viel?
+* Bin ich bereit, für Digitale Unabhängigkeit Geld auszugeben, und wenn ja, wie viel?
 * Wie viel Aufwand und Energie bin ich bereit zu investieren?
 * Alles in ein Ökosystem? Oder lieber aufteilen?
 
@@ -94,12 +102,12 @@ Digitale Unabhängigkeit nur eine von vielen Prioritäten
 Manche Fragen ergeben sich automatisch
 Man kann nicht alle Dimensionen zu 100% erfüllen.
 Prioritäten setzen
-eventuell werden Prioritäten durch äußere Zwänge gesetzt
+Prioritäten durch äußere Zwänge gesetzt
 -->
 
 ::right::
 
-# Zusätzliche Probleme
+# Zielkonflikte in Familien
 * Konsensfindung in der Familie
 * Unterschiedliche Prioritäten in der Familie
 * Unterschiedliches Wissen in der Familie
@@ -111,60 +119,58 @@ Scheidung und Verlassen der Familie
 -->
 
 ---
-
-# Erstes Fazit
-
-Es macht Sinn Familien genauer zu betrachten
-
-<!--
-Familien verdienen eine besondere betrachtung
--->
-
-
----
 layout: section
 ---
 
-# Von der Betrachtung zur Praxis
+# Konkrete Probleme
 
 <!-- 
-TODO: Klingt blöd
+
 -->
 
 ---
 
-# Das Familienadministrator:in Problem
+# Das Problem mit der Familienadministration
+Wenn eine Person ausfällt …
 
-* Selbstverwirklichung und Hobby
-* Single Point of Failure
-* Auch eine Form der digitalen Abhängigkeit
+* Nur eine Person kennt die Familien-IT
+* Zugänge und Zuständigkeiten sind unklar
+* Wichtige Daten und Dienste werden unerreichbar
+* Krankheit, Tod, Trennung oder Urlaub können reichen
 
-Bei Problemen sind wichtige Daten nicht verfügbar
+Eine Person darf kein Single Point of Failure sein.
 
 <!-- 
-Keine Digitale Unabhängigkeit
-Es muss nicht der männliche IT-Nerd sein, der sich selbst verwirklicht.
-Verschiedene Formen und Ausprägungen
-DSL, Owner des Familienkalenders
-Notfälle: Tod, Scheidung, Krankheit und Urlaub
+Bisher haben wir immer von Tech Riesen geredet und wie sie untere Digitale Souveränität untergraben.
+
+Folgendes Szenario: Ein Nerd managed die IT der Familie: eigener DNS Server, Firewall, Familien Domäne die beim Mail-Provider liegt, FileServer usw
+Und das passiert irgendwas: Krankheit, Tod, Safari in Afrika 
+Und gleichzeitig:  Zertifikat laeuft ab, die Doku liegen auf eine quantensicher verschlüsselten USB Stick und plötzlich geht das Internet nicht mehr
+
+Digitale Abhängigkeit von einer Person
+Es muss nicht der männliche IT-Nerd sein, der sich selbst verwirklicht: Auch Kinder die die IT der Eltern managen
 Es muss auch nicht eine Person sein
+Verschiedene Formen und Ausprägungen
+Notfälle sind Vielfälltig: Tod, Scheidung, Krankheit und Urlaub
+
 -->
 ---
 
 # Dokumentation der Familien-IT
-Die Dokumentation der Familien-IT ist wichtig.
 
-* Bestandteile der Familiien-IT:
-*  Geräte
-*  Wichtige Accounts und deren Recovery Option
-* Backups dokumentieren
+
+* Geräte, Dienste und Daten erfassen
+* Accounts und Wiederherstellungsoptionen dokumentieren
+* Backups und Speicherorte dokumentieren
 * Zuständigkeiten dokumentieren
 * Kenntnisstand der Familie berücksichtigen
-* Review durch Familienmitglieder
-* Recovery üben
-* Teil des Notfalls-Ordners
+* Dokumentation gemeinsam überprüfen
+* Wiederherstellung üben
+
+ Die IT-Dokumentation gehört in den Notfallordner.
 
 <!--
+ Eine Lösung: Dokumentation 
  Man kann direkt anfangen noch andere Sachen zu dokumentieren, 
  Bankdaten, Versicherung usw
 -->
@@ -173,80 +179,136 @@ Die Dokumentation der Familien-IT ist wichtig.
 
 # Wie dokumentiert man die Familien-IT?
 
-* Niedrigschwellig: USB-Stick mit Text-Dokumenten, PDF, Papier
-* Backup-Best-Practices beachten
-* Sicherheit nicht vergeressen
-* Aktualisierung und Updates sind wichtig
+* Niedrigschwellig beginnen: Papier, PDF und USB-Stick
+* Backup-Best-Practices beachten: Mehrere Kopien aufbewahren
+* Sicherheit und Zugriffsschutz beachten
+* Dokumentation regelmäßig aktualisieren
+* Zuständigkeiten und Änderungen festhalten
+
+ Die beste Dokumentation ist eine, die im Notfall gefunden und verstanden werden kann.
 
 <!-- 
-
+Ok, die Doku sollte gefunden und verstanden werden und bei Notfällen helfen
+Es gibt Backup-Best Practices, die sollte man beachten: Verteile Kopiene
+Teilweise muss Passwörter dokumentieren, die dürfen auf keinen Fall in fremde hände gegraten:
+Verschlüsselung, Passwortsafe
 -->
 
 ---
 
-# Notfälle: Was passiert bei Krankheit, Tod, Trennung und Urlaub
+# Notfälle in der Familien-IT
+
+## Auslöser:
+* Krankheit und Tod
+* Urlaub oder längere Abwesenheit
+* Account- oder Geräteausfall
+
+## Folgen
+* Zugänge und Daten sind nicht erreichbar
+* Niemand kennt Passwörter und Zuständigkeiten
+* Dokumentation oder Backups fehlen
+
+## Was hilft?
+* Dokumentation für mehrere Personen
+* Unabhängige, geschützte Backups
+* Wiederherstellung regelmäßig testen
+
 
 <!--
 Die Auflistung ist nicht vollständig
+Der Tod und Krankheitn aber auch Hardware defekte werden oft verdrängt, 
+Und manchmal kommt ein Problem nicht allein: 
 
-Der Tod und Krankheit wird oft ignoriert, aber es kann auch sein, daß ein Familienmitglied nicht greifbar ist.
 
-Das Internet geht nicht, aber keiner weiß das Passwort der Fritzbox.
+Das Internet geht nicht, aber keiner weiß das Passwort der Fritzbox, weil der Familien administrator in Urlaub ist.
 Es ist unklar, welche blinkende Kästchen im Keller dafür zustandig ist.
-
-Kein Zugriff oder Verlust von Dokumenten und Photos weil man auf die Accounts nicht zugreifen kann.
+Kein Zugriff oder Verlust von Dokumenten und Photos weil man auf die Accounts nicht mehr zugreifen kann.
 Passwörter für verschlüsselte Dokumente fehlen.
 
-Deswegen ist die Dokumentation so wichtig
-Das macht dann auch die Qualität der Dokumentation aus
+Dokumentation würde hier helfen, aber die Qualität der Dokumentation ist wichtig
 
-Gleichzeitig bieten manche Cloud-Dienst leister für Fälle Vertretungs und Recovery-Optionen an. Die sollte man in der Dokumenation erwähmem
+Gleichzeitig bieten manche Cloud-Dienstleister für solche Fälle Vertretungs und Recovery-Optionen an. Die sollte man in der Dokumenation erwähnen
 
-Bei Trennung kommen noch Problem der Sabotage dazu
-Accounts werden gesperrt, Dokumente gelöscht usw
-
+Dokumentation reicht nicht immer: Backup und Zugriffsberechtigungen
 
 -->
 
 ---
 
-# Notfälle: Verlust von Accounts
+# Verlust von Accounts
+* Vergessene Zugangsdaten
+* Account gesperrt oder übernommen
+
+## Folgen
+* Kein Zugriff auf Fotos, Dokumente und Nachrichten
+
+## Vorbeugen
+* Wichtige Daten unabhängig sichern
+* Recovery-Optionen überprüfen
+
+---
+
+# Trennung und Ausscheiden aus der Familien-IT
+
+Eine Person muss die Familien-IT verlassen können, ohne sie lahmzulegen oder Daten anderer mitzunehmen.
+
+## Besondere Vorkehrungen
+* Zugriffsrechte
+* Getrennte Konten
+* Datenzuordnung
+* Schutz vor Sabotage
 
 <!-- 
-Betrifft auch Einzelpersonen
-Man muss nicht beim Internatiolen Gerichtshof arbeiten um seinen account zu verlieren
+Account-Verlust kann jeden treffen, man muss nicht beim internationalen Gerichtshof arbeiten
+Und da sollte man vorsorgen, damit nicht das ganze digitale Leben der Familie weg ist.
+Backups helfen?
+Eventuell selber hosten 
+Reserve Email-Accounts als Recovery Option
+
+Verlassen der Familien-IT: Es können auch Kinder sein
+
+Bei Trennung kommen noch Problem der Sabotage dazu
+Passwörter werden geändert, Dokumente gelöscht usw
 
 -->
 
 ---
 
-# Themen, die wir übersprungen haben
+# Weitere wichtige Fragen
 
-* Sicherheit
-* Zugriffsberechtigungen
+* Sicherheit und Zugriffsberechtigungen
 * Privatsphäre in der Familie
-* Kinder und der Übergang in die Selbstständigkeit
+* Kinder auf dem Weg in die Selbstständigkeit
 * Backups und Recovery
+* Alternativen zu Google & Co
+* Praktische Umsetzung
+* Digitaler Nachlass
 
+<!-- 
+30 Minuten sind nicht viel für so ein Umfangreiches Thema
+-->
 ---
 
 # Fazit
-* Erste Schritte:
-  * Prioritäten setzen
-  * Klären, was wichtig ist
-  * Dokumentation und Inventar erstellen
-  * Wichtige Passwörter und Accounts "sicher" dokumentieren
-  * Recovery-Optionen klären und einrichten
-  * Rollen und Zuständigkeiten klären
-  * Backups einrichten
 
-  * Digitaler Nachlass
+## Erste Schritte
 
-<!-- Der heutige Vortrag hat eine leicht andere Wendung genommen -->
+* Prioritäten sowie wichtige Dienste und Daten klären
+* Familien-IT dokumentieren und Inventar erstellen
+* Wichtige Zugänge sicher dokumentieren
+* Recovery- und Vertretungsoptionen einrichten
+* Zuständigkeiten klären sowie Backups einrichten und Wiederherstellung testen
+
+
+<!-- Wir haben Microsoft und Google nur einmal erwähnt -->
 
 ---
 
 # Quellen und weiterführende Informationen
 * https://www.my-it-brain.de/wordpress/dokumentation-fuer-den-notfall-bzw-das-digitale-erbe/
 * https://www.my-it-brain.de/wordpress/nerds-gefaehrden-die-digitale-souveraenitaet-ihrer-familie/
+* https://www.heise.de/news/Googles-KI-Agent-CC-soll-das-Familienleben-verwalten-11457659.html
+
+# Bilder
+* XKCD: https://xkcd.com/2608/
 
