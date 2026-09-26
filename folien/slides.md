@@ -21,15 +21,20 @@ layout: section
 # Motivation
 ---
 
+# Familien als Zielgruppe
 
-# Die Familie im Blick von Google, Microsoft und Co.
-* Google Family Group und Google CC
-* Microsoft Family
-* Apple Family Sharing
-* Proton Family
+* Familien verbinden mehrere Nutzer und Geräte
+* Gemeinsame Daten und Dienste fördern langfristige Bindung
+* Anbieter verkaufen Familiengruppen, Abos und Verwaltung
+* Kinder wachsen oft in ein Ökosystem hinein
+* Ein Wechsel wird schwieriger, wenn vieles davon abhängt
+* Verknüpfte Familiendaten sind für Werbezwecke interessant
+
+Beispiele: Google Family, Microsoft Family, Apple Family Sharing, Proton Family
 
 
 <!-- 
+Viele Produkte, die auf Familien zugeschnitten sind: Das neuste Google CC
 Unterschiedliche Schwerpunkte und Fokus
 Interessante Profildaten für Werbekunden
 Viele große und kleine Firmen sehen Familien als interessante Zielgruppe für zusätzliche Dienste.
@@ -48,6 +53,8 @@ Auch das BSI und Verbraucherzentralen habeb Informationen zur Familien IT
 * Kontakte
 * Chat-Nachrichten
 
+<!-- Familien können sich eventuell auch Accounts und Passwörter teilen -->
+
 ---
 
 # Dienste und IT-Infrastruktur
@@ -64,11 +71,11 @@ Vieles kommt uns bekannt vor
 
 ---
 
-# Welche Personen gehören zur Familien-IT?
+# Wer ist Teil der Familien-IT?
 
 ![Familie Vielfalt](./pictures/family_reunion.png)
 
-Familie ist vielfältig!
+Familien-IT betrifft mehr als Eltern und Kinder
 
 * Familie: Ehepartner und Kinder
 * Eigene Eltern und Verwandte: Großeltern, Onkel, Tanten usw.
@@ -83,6 +90,7 @@ Familie ist vielfältig!
 ```mermaid {theme: 'neutral', scale: 0.6}
 radar-beta
 	axis Kosten, Aufwand, Privatsphaere, Digitale_Unabhaengigkeit, Sicherheit, Verfuegbarkeit
+	curve Prioritaeten["Beispielhafte Prioritaeten"]{ 5, 3, 1, 1, 3, 4 }
 	max 5
 ```
 <!-- Digitale Unabhängigkeit ist nur eins von vielen Zielen-->
@@ -90,10 +98,10 @@ radar-beta
 layout: two-cols-header
 ---
 ::left::
-# Zielkonflikte
-* Wie setze man als Familie Prioritäten?
-* Ziele sind konträr
-* Bin ich bereit, für Digitale Unabhängigkeit Geld auszugeben, und wenn ja, wie viel?
+# Allgemeine Zielkonflikte
+* Wie setzt man als Familie Prioritäten?
+* Ziele stehen im Konflikt
+* Bin ich bereit, für digitale Unabhängigkeit Geld auszugeben, und wenn ja, wie viel?
 * Wie viel Aufwand und Energie bin ich bereit zu investieren?
 * Alles in ein Ökosystem? Oder lieber aufteilen?
 
@@ -107,7 +115,7 @@ Prioritäten durch äußere Zwänge gesetzt
 
 ::right::
 
-# Zielkonflikte in Familien
+# Zusätzliche Hürden in Familien
 * Konsensfindung in der Familie
 * Unterschiedliche Prioritäten in der Familie
 * Unterschiedliches Wissen in der Familie
@@ -180,7 +188,7 @@ Notfälle sind Vielfälltig: Tod, Scheidung, Krankheit und Urlaub
 # Wie dokumentiert man die Familien-IT?
 
 * Niedrigschwellig beginnen: Papier, PDF und USB-Stick
-* Backup-Best-Practices beachten: Mehrere Kopien aufbewahren
+* Backup-Best-Practices beachten: Mehrere Kopien aufbewahren an verschiedenen Ort aufbewahren
 * Sicherheit und Zugriffsschutz beachten
 * Dokumentation regelmäßig aktualisieren
 * Zuständigkeiten und Änderungen festhalten
@@ -274,7 +282,7 @@ Passwörter werden geändert, Dokumente gelöscht usw
 
 ---
 
-# Weitere wichtige Fragen
+# Weitere wichtige Fragen 
 
 * Sicherheit und Zugriffsberechtigungen
 * Privatsphäre in der Familie
