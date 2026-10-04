@@ -3,22 +3,44 @@ theme: default
 title: Digitale Unabhängigkeit in der Familie
 author: Holger Nausséd
 ---
+---
+layout: section
+---
 
 # Digitale Unabhängigkeit in der Familie
 
+Daten gehören uns oft nicht nur uns allein.
 <!-- 
-Bei den meisten Vorträgen standen die einzelne Person und die Daten des Einzelnen im Fokus.
+Was ist digitale Unabhängigkeit?
+Wir reden mehr über digitale Unabhängigkeit im privaten Umfeld
+Der Begriff wird auch im Rahmen der Abhängigkeit der EU von der USA verwendet
+Wenn wir auf der Diday Seite gucken, da gibt es ein umfangreiches FAQ
+wenn ich das mit meinen Worten zusammenfassen soll:
+
+selbstbestimmtest und unabhängiges digitales Leben zu führen. 
+
+Und da gibt es Hindernisse
+
+Es passt nicht so gut in das Geschäftsmodell von Google und Microsoft 
+Aber auch staatliche Interessen harmonieren nicht so gut mit meinen Zielen
+
+Bei den meisten Vorträgen standen bisher einzelne Person und die Daten des Einzelnen im Fokus.
 Aber:
 Daten gehören oft nicht nur uns allein.
 Und die zugehörigen Dienste nutzen wir ebenfalls nicht allein.
 
 Und eine Institution, in der besonders viele persönliche Daten ausgetauscht und geteilt werden ist die Familie.
+
+Wenn das kein Grund ist, sich das Thema genauer anzugucken
 -->
+
 ---
 layout: section
 ---
 
 # Motivation
+
+
 ---
 
 # Familien als Zielgruppe
@@ -34,12 +56,15 @@ Beispiele: Google Family, Microsoft Family, Apple Family Sharing, Proton Family
 
 
 <!-- 
+Frage an das Publikum:  Eltern legen bei der Geburt eine E-Mail-Adresse an.
+
+Interessante Zielgruppe
 Viele Produkte, die auf Familien zugeschnitten sind: Das neuste Google CC
 Unterschiedliche Schwerpunkte und Fokus
 Interessante Profildaten für Werbekunden
 Viele große und kleine Firmen sehen Familien als interessante Zielgruppe für zusätzliche Dienste.
-Lock-in-Effekt: Kinder bleiben beim Anbieter, Eltern legen bei der Geburt eine E-Mail-Adresse an.
-Auch das BSI und Verbraucherzentralen habeb Informationen zur Familien IT
+Lock-in-Effekt: Kinder bleiben beim Anbieter
+Auch das BSI und Verbraucherzentralen haben Informationen zur Familien IT
 -->
 
 
@@ -66,22 +91,24 @@ Auch das BSI und Verbraucherzentralen habeb Informationen zur Familien IT
 * Passwort-Manager
 
 <!-- 
-Vieles kommt uns bekannt vor
+Die konkrete Ausprägung ist sehr unterschiedlich
+Vieles Punkte kommen uns bekannt vor
 -->
 
 ---
 
 # Wer ist Teil der Familien-IT?
 
-![Familie Vielfalt](./pictures/family_reunion.png)
-
-Familien-IT betrifft mehr als Eltern und Kinder
+Familien-IT ist vielfälltig
 
 * Familie: Ehepartner und Kinder
 * Eigene Eltern und Verwandte: Großeltern, Onkel, Tanten usw.
 * Freunde und Bekannte: enge Freunde, Nachbarn usw.
 
-<!-- Wir konzentrieren uns auf die engere Familie, aber viele Probleme sind übertragbar -->
+<!-- 
+
+
+ -->
 
 ---
 
@@ -93,7 +120,10 @@ radar-beta
 	curve Prioritaeten["Beispielhafte Prioritaeten"]{ 5, 3, 1, 1, 3, 4 }
 	max 5
 ```
-<!-- Digitale Unabhängigkeit ist nur eins von vielen Zielen-->
+<!-- 
+Digitale Unabhängigkeit ist nur eins von vielen Zielen, die bestimmt wie die Famlien IT aussieht
+Die Liste ist nicht vollständig
+-->
 ---
 layout: two-cols-header
 ---
@@ -106,11 +136,10 @@ layout: two-cols-header
 * Alles in ein Ökosystem? Oder lieber aufteilen?
 
 <!-- 
-Digitale Unabhängigkeit nur eine von vielen Prioritäten
+Digitale Unabhängigkeit nur eine von vielen und Zielen und Prioritäten
 Manche Fragen ergeben sich automatisch
 Man kann nicht alle Dimensionen zu 100% erfüllen.
-Prioritäten setzen
-Prioritäten durch äußere Zwänge gesetzt
+Prioritäten setzen wobei manche durch äußere Zwänge gesetzt
 -->
 
 ::right::
@@ -123,16 +152,20 @@ Prioritäten durch äußere Zwänge gesetzt
 
 <!-- 
 Ähnlich wie bei Einzelpersonen, aber es gibt zusätzliche Hürden  und Probleme
-Scheidung und Verlassen der Familie
+Es kann sein, dass ich Windows-Admin in der zentralen IT meiner Firma bin, mein Sohn ist CCC in Darmstadt und beiteiligt sich am DiDay
+Das ist ein überspitztes Beispiel, ich hoffe es verdeutlich aber die Punkte Konsensfindunf und Prioritäten in der Familie
+
 -->
 
 ---
 layout: section
 ---
 
-# Konkrete Probleme
+# Konkretes Probleme
 
 <!-- 
+
+Wir haben viel über Familien-IT geredet, wir reden jetzt über ein ernstes Problem
 
 -->
 
@@ -159,19 +192,20 @@ Und gleichzeitig:  Zertifikat laeuft ab, der Passwortsafe liegen auf eine quante
 
 Oder
 
-Alle wichtige FamilienDokumente liegen gesichert auf Dropbox, eine SSD faellt aus und ...
+Alle wichtige FamilienDokumente liegen auf einem privaten Dropbox Account, eine SSD faellt aus und ...
 
-Digitale Abhängigkeit von einer Person
+
 
 Der Tod und Krankheiten aber auch Hardware defekte werden oft verdrängt 
 
 Es muss nicht der männliche IT-Nerd sein, der sich selbst verwirklicht: Auch Kinder die die IT der Eltern managen: Jung meine Fritz.box blinkt und das Wlan geht nicht mehr
 Es muss auch nicht eine Person sein
 Verschiedene Formen und Ausprägungen
-Notfälle und ungünstige Verkettungen sind Vielfälltig: Tod, Scheidung, Krankheit und Urlaub
+Notfälle und ungünstige Verkettungen sind Vielfälltig: Tod, Scheidung, Hardwaredefekte und Urlaub
 
-Das Problem tritt nicht nur in Familien auf.
+Das Problem tritt nicht nur in Familien auf
 
+Digitale Abhängigkeit von einer Person ist ein Problem für die digitale Unabhängigkeit
 -->
 ---
 
@@ -190,10 +224,12 @@ Wir sollten uns über Dokumentation unterhalten!
  Die IT-Dokumentation gehört in den Notfallordner.
 
 <!--
- Eine Lösung: Dokumentation 
+ Eine Lösung: Dokumentation
  Inhalt kann varieren
- Notfalls kann man die DOkumentation einem Experten geben
- Man kann direkt anfangen noch andere Sachen zu dokumentieren: Bankdaten, Versicherung usw
+ Notfalls kann man die Dokumentation einem Experten geben
+
+
+ Wenn man schon dabei ist, man kann direkt anfangen noch andere Sachen zu dokumentieren: Bankdaten, Versicherung usw
 
 -->
 
@@ -215,6 +251,11 @@ Es gibt Backup-Best Practices, die sollte man beachten: Verteile Kopiene
 Teilweise muss Passwörter dokumentieren, die dürfen auf keinen Fall in fremde hände gegraten:
 Verschlüsselung, Passwortsafe
 -->
+
+---
+
+# Konkrete Beispiele
+
 
 ---
 
@@ -336,18 +377,20 @@ Ich habe das Thema: Familienadministrator und dokumentation fand ich am wichtigs
 
 
 <!-- 
-Unabhängig wie die Famlien IT aussieht, die kann man immer noch umbauen, erstmal geht es um den Ist-Zustand
-Fortsetzung folgt
-
+Erste Schritte unabhängig wie die Famlien IT aussieht,
+Die kann man immer noch umbauen, erstmal geht es um den Ist-Zustand
 -->
 
 ---
 
+TODO: Hier Links zum github account einbauen, eventuell auch linkin 
+
+
+
+---
+
+
 # Quellen und weiterführende Informationen
 * https://www.my-it-brain.de/wordpress/dokumentation-fuer-den-notfall-bzw-das-digitale-erbe/
 * https://www.my-it-brain.de/wordpress/nerds-gefaehrden-die-digitale-souveraenitaet-ihrer-familie/
-* https://www.heise.de/news/Googles-KI-Agent-CC-soll-das-Familienleben-verwalten-11457659.html
-
-# Bilder
-* XKCD: https://xkcd.com/2608/
 

@@ -21,19 +21,22 @@ Thema für zweiten Vortrag raussuchen
 # Feedback zu den Folien (Laien-Sicht, 2026-10-04)
 
 ## Großes
+- [ ] Ich sollte mich vorstellen? 
+- [ ] Ich sollte ein paar Bilder einfügen? Und weniger TextWüste
 - [ ] Roter Faden: Was heißt "digitale Unabhängigkeit"? Begriff früh erklären. Den Wechsel von "Abhängigkeit von Konzernen" zu "Abhängigkeit von einer Person (Familien-Admin)" sichtbar machen (Brückenfolie?). Im Fazit wieder aufgreifen.
 - [ ] Gute Inhalte aus den Kommentaren auf die Folien holen:
   - Titelfolie: "Daten gehören oft nicht nur uns allein"
   - Familien als Zielgruppe: E-Mail-Adresse zur Geburt als konkretes Lock-in-Beispiel (die 6 Stichpunkte sind abstrakt)
   - Familienadministration: Szenario Safari / Zertifikat / USB-Stick und "Jung, meine Fritzbox blinkt" als Geschichte oder Bild
 - [ ] Reihenfolge im Problemteil: Krankheit, Tod und Urlaub kommen dreimal vor. Die Notfall-Folie steht nach der Dokumentation und nennt bei "Was hilft?" wieder die Dokumentation. Die Aussage "Doku reicht nicht" kommt auf der Folie nicht an.
-- [ ] Dokumentation konkreter machen:
+- [ ] Dokumentation konkreter machen: ( ich habe da was bei froscon Vortrag gesehen und bei der Bankdaten-Webseite )
   - Beispielseite eines Notfallblatts zeigen
   - Recovery-Funktionen beim Namen nennen (Google Kontoinaktivität-Manager, Apple Nachlasskontakt, Notfallzugriff im Passwortmanager)
   - Beantworten: Wo lasse ich das Master-Passwort sicher?
 - [ ] Account-Verlust: Beispiel erklären und mit dem Thema Souveränität verbinden
   - Es ist der Internationale *Straf*gerichtshof (nicht der Internationale Gerichtshof)
   - Familiennahes Beispiel: Google sperrt 2022 das Konto eines Vaters wegen Kinderfotos für den Arzt (NYT)
+  - Am Ende Seite zum GitRepo einfügen
 
 ## Kleineres
 - [ ] Radar-Diagramm: Was bedeutet der Wert 5? Achsen beschriften ("Wie wichtig ist uns …"), sagen, wessen Prioritäten das sind, Umlaute und Unterstriche in den Achsennamen korrigieren
