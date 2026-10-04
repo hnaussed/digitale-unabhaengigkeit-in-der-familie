@@ -151,21 +151,33 @@ Eine Person darf kein Single Point of Failure sein.
 <!-- 
 Bisher haben wir immer von Tech Riesen geredet und wie sie untere Digitale Souveränität untergraben.
 
-Folgendes Szenario: Ein Nerd managed die IT der Familie: eigener DNS Server, Firewall, Familien Domäne die beim Mail-Provider liegt, FileServer usw
-Und das passiert irgendwas: Krankheit, Tod, Safari in Afrika 
-Und gleichzeitig:  Zertifikat laeuft ab, die Doku liegen auf eine quantensicher verschlüsselten USB Stick und plötzlich geht das Internet nicht mehr
+Aber egal wie die konkrete Familien IT aussieht ( US Cloud Dienste und der FamilienServer im Keller), es bleibt das Problem des Familien Adminstrators
+
+Zur Veranschaulichung folgendes Szenario: Ein Nerd managed die IT der Familie: eigener DNS Server, Firewall, Familien Domäne die beim Mail-Provider liegt, FileServer usw
+Und dann passiert irgendwas: Krankheit oder Safari in Afrika 
+Und gleichzeitig:  Zertifikat laeuft ab, der Passwortsafe liegen auf eine quantensicher verschlüsselten USB Stick und plötzlich geht das Internet nicht mehr
+
+Oder
+
+Alle wichtige FamilienDokumente liegen gesichert auf Dropbox, eine SSD faellt aus und ...
 
 Digitale Abhängigkeit von einer Person
-Es muss nicht der männliche IT-Nerd sein, der sich selbst verwirklicht: Auch Kinder die die IT der Eltern managen
+
+Der Tod und Krankheiten aber auch Hardware defekte werden oft verdrängt 
+
+Es muss nicht der männliche IT-Nerd sein, der sich selbst verwirklicht: Auch Kinder die die IT der Eltern managen: Jung meine Fritz.box blinkt und das Wlan geht nicht mehr
 Es muss auch nicht eine Person sein
 Verschiedene Formen und Ausprägungen
-Notfälle sind Vielfälltig: Tod, Scheidung, Krankheit und Urlaub
+Notfälle und ungünstige Verkettungen sind Vielfälltig: Tod, Scheidung, Krankheit und Urlaub
+
+Das Problem tritt nicht nur in Familien auf.
 
 -->
 ---
 
 # Dokumentation der Familien-IT
 
+Wir sollten uns über Dokumentation unterhalten!
 
 * Geräte, Dienste und Daten erfassen
 * Accounts und Wiederherstellungsoptionen dokumentieren
@@ -179,8 +191,10 @@ Notfälle sind Vielfälltig: Tod, Scheidung, Krankheit und Urlaub
 
 <!--
  Eine Lösung: Dokumentation 
- Man kann direkt anfangen noch andere Sachen zu dokumentieren, 
- Bankdaten, Versicherung usw
+ Inhalt kann varieren
+ Notfalls kann man die DOkumentation einem Experten geben
+ Man kann direkt anfangen noch andere Sachen zu dokumentieren: Bankdaten, Versicherung usw
+
 -->
 
 ---
@@ -188,7 +202,7 @@ Notfälle sind Vielfälltig: Tod, Scheidung, Krankheit und Urlaub
 # Wie dokumentiert man die Familien-IT?
 
 * Niedrigschwellig beginnen: Papier, PDF und USB-Stick
-* Backup-Best-Practices beachten: Mehrere Kopien aufbewahren an verschiedenen Ort aufbewahren
+* Backup-Best-Practices beachten: Mehrere Kopien an verschiedenen Ort aufbewahren
 * Sicherheit und Zugriffsschutz beachten
 * Dokumentation regelmäßig aktualisieren
 * Zuständigkeiten und Änderungen festhalten
@@ -223,22 +237,25 @@ Verschlüsselung, Passwortsafe
 
 
 <!--
+
+Wir haben jetzt dokumentiert: Ist denn damit die Digitale Unabhängigkeit gerettet?
+
+Wir schauen uns mal ein paar Beispiele an
+
 Die Auflistung ist nicht vollständig
-Der Tod und Krankheitn aber auch Hardware defekte werden oft verdrängt, 
-Und manchmal kommt ein Problem nicht allein: 
+Und manchmal kommt ein Problem nicht allein
 
-
-Das Internet geht nicht, aber keiner weiß das Passwort der Fritzbox, weil der Familien administrator in Urlaub ist.
+Beispiele  haben wir eben schon aufgezählt:
+Das Internet geht nicht, aber keiner weiß das Passwort der Fritzbox, weil der Familien Administrator in Urlaub ist.
 Es ist unklar, welche blinkende Kästchen im Keller dafür zustandig ist.
 Kein Zugriff oder Verlust von Dokumenten und Photos weil man auf die Accounts nicht mehr zugreifen kann.
 Passwörter für verschlüsselte Dokumente fehlen.
 
 Dokumentation würde hier helfen, aber die Qualität der Dokumentation ist wichtig
+Gleichzeitig bieten manche Cloud-Dienstleister für solche Fälle Vertretungs und Recovery-Optionen an. Die sollte man in der Dokumenation erwähnen und nutzen
 
-Gleichzeitig bieten manche Cloud-Dienstleister für solche Fälle Vertretungs und Recovery-Optionen an. Die sollte man in der Dokumenation erwähnen
 
-Dokumentation reicht nicht immer: Backup und Zugriffsberechtigungen
-
+Aber: Dokumentation hilft nicht bei allen Notfällen und reicht alleine nicht, das sehen wir an den nächsten Beispielen
 -->
 
 ---
@@ -254,6 +271,19 @@ Dokumentation reicht nicht immer: Backup und Zugriffsberechtigungen
 * Wichtige Daten unabhängig sichern
 * Recovery-Optionen überprüfen
 
+<!--
+
+
+Account-Verlust kann jeden treffen, man muss nicht beim internationalen Strafgerichtshof arbeiten
+Und man sollte vorsorgen und vorbeugen, damit nicht das ganze digitale Leben der Familie weg ist.
+
+Betrifft eventuell die ganze Familie
+
+Hier hilft Dokumentation nicht mehr
+
+
+-->
+
 ---
 
 # Trennung und Ausscheiden aus der Familien-IT
@@ -267,16 +297,11 @@ Eine Person muss die Familien-IT verlassen können, ohne sie lahmzulegen oder Da
 * Schutz vor Sabotage
 
 <!-- 
-Account-Verlust kann jeden treffen, man muss nicht beim internationalen Gerichtshof arbeiten
-Und da sollte man vorsorgen, damit nicht das ganze digitale Leben der Familie weg ist.
-Backups helfen?
-Eventuell selber hosten 
-Reserve Email-Accounts als Recovery Option
-
-Verlassen der Familien-IT: Es können auch Kinder sein
+Verlassen der Familien-IT: Es muss nicht die Scheidung, manchmal verlassen die Kinder den Haushalt
 
 Bei Trennung kommen noch Problem der Sabotage dazu
 Passwörter werden geändert, Dokumente gelöscht usw
+
 
 -->
 
@@ -293,7 +318,9 @@ Passwörter werden geändert, Dokumente gelöscht usw
 * Digitaler Nachlass
 
 <!-- 
-30 Minuten sind nicht viel für so ein Umfangreiches Thema
+30 Minuten sind nicht viel für so ein umfangreiches Thema
+Wit treffen uns seit fast einem Jahr und uns gehen die Themen nichts aus
+Ich habe das Thema: Familienadministrator und dokumentation fand ich am wichtigsten
 -->
 ---
 
@@ -308,7 +335,11 @@ Passwörter werden geändert, Dokumente gelöscht usw
 * Zuständigkeiten klären sowie Backups einrichten und Wiederherstellung testen
 
 
-<!-- Wir haben Microsoft und Google nur einmal erwähnt -->
+<!-- 
+Unabhängig wie die Famlien IT aussieht, die kann man immer noch umbauen, erstmal geht es um den Ist-Zustand
+Fortsetzung folgt
+
+-->
 
 ---
 
