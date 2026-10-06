@@ -29,7 +29,7 @@ Aber:
 Daten gehören oft nicht nur uns allein.
 Und die zugehörigen Dienste nutzen wir ebenfalls nicht allein.
 
-Und eine Institution, in der besonders viele persönliche Daten ausgetauscht und geteilt werden ist die Familie.
+Und eine Institution, in der besonders viele persönliche Daten ausgetauscht und gnutzt werden ist die Familie.
 
 Wenn das kein Grund ist, sich das Thema genauer anzugucken
 -->
@@ -78,7 +78,10 @@ Auch das BSI und Verbraucherzentralen haben Informationen zur Familien IT
 * Kontakte
 * Chat-Nachrichten
 
-<!-- Familien können sich eventuell auch Accounts und Passwörter teilen -->
+<!-- 
+So, von welchen Daten und Diensten reden wir?
+Familien können sich eventuell auch Accounts und Passwörter teilen 
+-->
 
 ---
 
@@ -107,7 +110,8 @@ Familien-IT ist vielfälltig
 
 <!-- 
 
-
+So unterschiedlich wie eine Familien IT aussehen kann, so kann man auch den Begriff Familie sehr weit fassen:
+Von Eltern mit Kinder bis zu einer StundenWG
  -->
 
 ---
@@ -122,14 +126,15 @@ radar-beta
 ```
 <!-- 
 Digitale Unabhängigkeit ist nur eins von vielen Zielen, die bestimmt wie die Famlien IT aussieht
-Die Liste ist nicht vollständig
+Auch die Liste ist nicht vollständig
+Das ist kein Familien Ding
 -->
 ---
 layout: two-cols-header
 ---
 ::left::
+
 # Allgemeine Zielkonflikte
-* Wie setzt man als Familie Prioritäten?
 * Ziele stehen im Konflikt
 * Bin ich bereit, für digitale Unabhängigkeit Geld auszugeben, und wenn ja, wie viel?
 * Wie viel Aufwand und Energie bin ich bereit zu investieren?
@@ -137,21 +142,21 @@ layout: two-cols-header
 
 <!-- 
 Digitale Unabhängigkeit nur eine von vielen und Zielen und Prioritäten
-Manche Fragen ergeben sich automatisch
-Man kann nicht alle Dimensionen zu 100% erfüllen.
-Prioritäten setzen wobei manche durch äußere Zwänge gesetzt
+Manche Ziele ergeben sich aus äußeren Zwängen: Geld ist so einer
+Reddit diskussion: Manchmal gibt es zu den Zielvorstellungen keine Lösung
 -->
 
 ::right::
 
 # Zusätzliche Hürden in Familien
+* Wie setzt man als Familie Prioritäten?
 * Konsensfindung in der Familie
 * Unterschiedliche Prioritäten in der Familie
 * Unterschiedliches Wissen in der Familie
-* Manche Ausnahmezustände und Probleme betreffen nur Familien
 
 <!-- 
-Ähnlich wie bei Einzelpersonen, aber es gibt zusätzliche Hürden  und Probleme
+Ähnlich wie bei Einzelpersonen, aber es gibt zusätzliche Hürden und Probleme für Familien
+Man ist allein und braucht einen Konsens
 Es kann sein, dass ich Windows-Admin in der zentralen IT meiner Firma bin, mein Sohn ist CCC in Darmstadt und beiteiligt sich am DiDay
 Das ist ein überspitztes Beispiel, ich hoffe es verdeutlich aber die Punkte Konsensfindunf und Prioritäten in der Familie
 
@@ -186,24 +191,20 @@ Bisher haben wir immer von Tech Riesen geredet und wie sie untere Digitale Souve
 
 Aber egal wie die konkrete Familien IT aussieht ( US Cloud Dienste und der FamilienServer im Keller), es bleibt das Problem des Familien Adminstrators
 
+Wie Familie kann man den Begriff sehr weit fassen
+
 Zur Veranschaulichung folgendes Szenario: Ein Nerd managed die IT der Familie: eigener DNS Server, Firewall, Familien Domäne die beim Mail-Provider liegt, FileServer usw
+
+
 Und dann passiert irgendwas: Krankheit oder Safari in Afrika 
 Und gleichzeitig:  Zertifikat laeuft ab, der Passwortsafe liegen auf eine quantensicher verschlüsselten USB Stick und plötzlich geht das Internet nicht mehr
 
-Oder
-
-Alle wichtige FamilienDokumente liegen auf einem privaten Dropbox Account, eine SSD faellt aus und ...
-
-
-
-Der Tod und Krankheiten aber auch Hardware defekte werden oft verdrängt 
 
 Es muss nicht der männliche IT-Nerd sein, der sich selbst verwirklicht: Auch Kinder die die IT der Eltern managen: Jung meine Fritz.box blinkt und das Wlan geht nicht mehr
 Es muss auch nicht eine Person sein
 Verschiedene Formen und Ausprägungen
-Notfälle und ungünstige Verkettungen sind Vielfälltig: Tod, Scheidung, Hardwaredefekte und Urlaub
 
-Das Problem tritt nicht nur in Familien auf
+Notfälle und ungünstige Verkettungen sind Vielfälltig: Tod, Scheidung, Hardwaredefekte und Urlaub
 
 Digitale Abhängigkeit von einer Person ist ein Problem für die digitale Unabhängigkeit
 -->
@@ -225,19 +226,22 @@ Wir sollten uns über Dokumentation unterhalten!
 
 <!--
  Eine Lösung: Dokumentation
+ Mag keiner, viele verdrängen das
  Inhalt kann varieren
  Notfalls kann man die Dokumentation einem Experten geben
 
 
  Wenn man schon dabei ist, man kann direkt anfangen noch andere Sachen zu dokumentieren: Bankdaten, Versicherung usw
+ Teil des Notfallordners
 
+Hat jemand einen Notfallordner?
 -->
 
 ---
 
 # Wie dokumentiert man die Familien-IT?
 
-* Niedrigschwellig beginnen: Papier, PDF und USB-Stick
+* Niedrigschwellig beginnen: Papier, PDF,  USB-Stick 
 * Backup-Best-Practices beachten: Mehrere Kopien an verschiedenen Ort aufbewahren
 * Sicherheit und Zugriffsschutz beachten
 * Dokumentation regelmäßig aktualisieren
@@ -248,8 +252,9 @@ Wir sollten uns über Dokumentation unterhalten!
 <!-- 
 Ok, die Doku sollte gefunden und verstanden werden und bei Notfällen helfen
 Es gibt Backup-Best Practices, die sollte man beachten: Verteile Kopiene
-Teilweise muss Passwörter dokumentieren, die dürfen auf keinen Fall in fremde hände gegraten:
-Verschlüsselung, Passwortsafe
+Teilweise muss Passwörter dokumentieren, die dürfen auf keinen Fall in fremde Hände gegraten,
+Eventuell auf: Verschlüsselung, Passwortsafe
+Online-Services
 -->
 
 ---
@@ -281,7 +286,7 @@ Verschlüsselung, Passwortsafe
 
 Wir haben jetzt dokumentiert: Ist denn damit die Digitale Unabhängigkeit gerettet?
 
-Wir schauen uns mal ein paar Beispiele an
+Wir schauen uns mal ein paar Beispielenotfälle an
 
 Die Auflistung ist nicht vollständig
 Und manchmal kommt ein Problem nicht allein
