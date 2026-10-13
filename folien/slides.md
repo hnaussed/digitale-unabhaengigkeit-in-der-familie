@@ -9,7 +9,7 @@ neversink_slug: 'DiDay 2026'
 
 
 
-Daten gehören uns oft nicht nur uns allein.
+Daten gehören uns oft nicht allein.
 
 ---
 layout: section
@@ -22,13 +22,14 @@ Was ist Digitale Unanhängigkeit?
 <!-- 
 Bevor wir loslegen
 Was ist digitale Unabhängigkeit?
+
 Der Begriff wird auch im Rahmen der Abhängigkeit der EU von der USA verwendet
 Oder der Abhängigkeit der städtischer IT von Microsoft
 
 Im Rahmen dieser Veranstaltung reden mehr über digitale Unabhängigkeit im privaten Umfeld
 
 Wenn wir auf der Diday Seite gucken, da gibt es ein umfangreiches FAQ
-aber wenn ich persönlich das mit meinen Worten zusammenfassen soll:
+aber wenn ich eigenen Worten zusammenfassen soll:
 
 selbstbestimmtest und unabhängiges digitales Leben zu führen. 
 
@@ -85,11 +86,14 @@ Viele von den kleinen
 * Bilder, Filme, Spiele und Dokumente
 * Accounts, Passwörter und Zugangsdaten
 * Kalenderdaten
-* Kontakte
+* Kontakte und Adressen
 * Chat-Nachrichten
 
 <!-- 
 Von welchen Daten und Diensten reden wir?
+Dokumente: Verträge, Urkunden, Steuerunterlagen, Haushaltsbuch
+Bilder: Fotos und Erinnerungen
+Viele der Daten hatte man früher analog gespeichert, inzwischen gibt es sie nur noch digital
 -->
 
 ---
@@ -97,19 +101,20 @@ Von welchen Daten und Diensten reden wir?
 # Gemeinsam genutzte Dienste 
 
 * Cloudspeicher ( z.B. für Fotos, Dokumente )
-* E-Mail-Provider
+* Email und Kalenderdienste
 * Messenger
-* Streaming- und SpeielDienste
+* Streaming- und Spieledienste
 * Internet-Provider
 * Passwort-Manager
 
 <!-- 
-Die konkrete Ausprägung ist sehr unterschiedlich
-Vieles Punkte kommen uns aber uns bekannt vor: 
+Cloudspeicher: Irgendwo müssen die gespeichert werden
+
+Es geht nicht so sehr um Details und Konkrete umsetzung
+viele Punkte gelten auch für EinzelPersonen
+Wichtig ist, das Personen Daten und Dienste teilen.
 -->
 
----
-layout: side-title
 ---
 
 # Wer ist Teil der Familien-IT?
@@ -121,43 +126,47 @@ Familien-IT ist vielfälltig
 * Freunde und Bekannte
 
 <!-- 
+Die Personenkreis kann eine klassische Familie sein
 
-Familie kann auch die WG sein,
+Familie kann auch die WG sein: man teilt sich einen DSL Anschluss, Netflix und einen Filmeserver
 
-So unterschiedlich wie eine Familien IT aussehen kann, so kann man auch den Begriff Familie sehr weit fassen:
-Von Eltern mit Kinder bis zu einer StundenWG
+Man kann den Begriff Familie sehr weit fassen
+
+Von Eltern mit Kinder bis zu einer StundentenWG
  -->
 
 ---
 
-# Zielkonflikte in der Familien-IT
+# Ziele in der Familien-IT
 
-```mermaid {theme: 'neutral', scale: 0.6}
-radar-beta
-	axis Kosten, Aufwand, Privatsphaere, Digitale_Unabhaengigkeit, Sicherheit, Verfuegbarkeit
-	curve Prioritaeten["Beispielhafte Prioritaeten"]{ 5, 3, 1, 1, 3, 4 }
-	max 5
-```
-<!-- 
-Digitale Unabhängigkeit ist nur eins von vielen Zielen, die bestimmt wie die Famlien IT aussieht
-Auch die Liste ist nicht vollständig
-Das ist kein Familien Ding
+
+<Admonition v-click title="Digitale Unabhängigkeit" color="teal-light" width="300px"></Admonition>
+<Admonition v-click title="Kostenminimierung" color="teal-light" width="300px"></Admonition>
+<Admonition v-click title="Wenig Aufwand" color="teal-light" width="300px"></Admonition>
+<Admonition v-click title="Privatsphaere" color="teal-light" width="300px"></Admonition>
+<Admonition v-click title="Sicherheit" color="teal-light" width="300px"></Admonition>
+<Admonition v-click title="Verfuegbarkeit" color="teal-light" width="300px"></Admonition>
+<Admonition v-click title="Und vieles mehr" color="teal-light" width="300px"></Admonition>	
+	
+
+<!--
+Da erkennt man schnell: Da gibt es Zielkonflikte
 -->
 ---
 layout: two-cols-header
 ---
 ::left::
 
-# Allgemeine Zielkonflikte
+# Zielkonflikte
 * Ziele stehen im Konflikt
 * Bin ich bereit, für digitale Unabhängigkeit Geld auszugeben, und wenn ja, wie viel?
 * Wie viel Aufwand und Energie bin ich bereit zu investieren?
 * Alles in ein Ökosystem? Oder lieber aufteilen?
 
 <!-- 
-Digitale Unabhängigkeit nur eine von vielen und Zielen und Prioritäten
+Digitale Unabhängigkeit nur eine von vielen und Zielen
 Manche Ziele ergeben sich aus äußeren Zwängen: Geld ist so einer
-Reddit diskussion: Manchmal gibt es zu den Zielvorstellungen keine Lösung
+Manchmal gibt es auch zu den eigenen Zielen keine Lösung
 -->
 
 ::right::
@@ -171,8 +180,8 @@ Reddit diskussion: Manchmal gibt es zu den Zielvorstellungen keine Lösung
 <!-- 
 Ähnlich wie bei Einzelpersonen, aber es gibt zusätzliche Hürden und Probleme für Familien
 Man ist allein und braucht einen Konsens
-Es kann sein, dass ich Windows-Admin in der zentralen IT meiner Firma bin, mein Sohn ist CCC in Darmstadt und beiteiligt sich am DiDay
-Das ist ein überspitztes Beispiel, ich hoffe es verdeutlich aber die Punkte Konsensfindunf und Prioritäten in der Familie
+
+
 
 -->
 
@@ -180,11 +189,11 @@ Das ist ein überspitztes Beispiel, ich hoffe es verdeutlich aber die Punkte Kon
 layout: section
 ---
 
-# Konkretes Probleme
+# Konkretes Gefahren für die Digitale Unabhängigkeit in der Familie
 
 <!-- 
 
-Wir haben viel über Familien-IT geredet, wir reden jetzt über ein ernstes Problem
+Wir haben viel über Familien-IT geredet, 
 
 -->
 
