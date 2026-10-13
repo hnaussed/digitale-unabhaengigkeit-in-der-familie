@@ -1,38 +1,15 @@
 ---
-theme: default
+theme: neversink
 title: Digitale Unabhängigkeit in der Familie
 author: Holger Nausséd
----
----
-layout: section
+neversink_slug: 'DiDay 2026'
 ---
 
 # Digitale Unabhängigkeit in der Familie
 
+
+
 Daten gehören uns oft nicht nur uns allein.
-<!-- 
-Was ist digitale Unabhängigkeit?
-Wir reden mehr über digitale Unabhängigkeit im privaten Umfeld
-Der Begriff wird auch im Rahmen der Abhängigkeit der EU von der USA verwendet
-Wenn wir auf der Diday Seite gucken, da gibt es ein umfangreiches FAQ
-wenn ich das mit meinen Worten zusammenfassen soll:
-
-selbstbestimmtest und unabhängiges digitales Leben zu führen. 
-
-Und da gibt es Hindernisse
-
-Es passt nicht so gut in das Geschäftsmodell von Google und Microsoft 
-Aber auch staatliche Interessen harmonieren nicht so gut mit meinen Zielen
-
-Bei den meisten Vorträgen standen bisher einzelne Person und die Daten des Einzelnen im Fokus.
-Aber:
-Daten gehören oft nicht nur uns allein.
-Und die zugehörigen Dienste nutzen wir ebenfalls nicht allein.
-
-Und eine Institution, in der besonders viele persönliche Daten ausgetauscht und gnutzt werden ist die Familie.
-
-Wenn das kein Grund ist, sich das Thema genauer anzugucken
--->
 
 ---
 layout: section
@@ -40,31 +17,64 @@ layout: section
 
 # Motivation
 
+Was ist Digitale Unanhängigkeit?
+
+<!-- 
+Bevor wir loslegen
+Was ist digitale Unabhängigkeit?
+Der Begriff wird auch im Rahmen der Abhängigkeit der EU von der USA verwendet
+Oder der Abhängigkeit der städtischer IT von Microsoft
+
+Im Rahmen dieser Veranstaltung reden mehr über digitale Unabhängigkeit im privaten Umfeld
+
+Wenn wir auf der Diday Seite gucken, da gibt es ein umfangreiches FAQ
+aber wenn ich persönlich das mit meinen Worten zusammenfassen soll:
+
+selbstbestimmtest und unabhängiges digitales Leben zu führen. 
+
+Und da gibt es Hindernisse
+
+Es passt nicht gut in das Geschäftsmodell von Google und Microsoft 
+Aber eventuell harmonieren staatliche Interessen nicht mit meinen Bedürfniss nach Privatsphäre.
+
+Bei den meisten Vorträgen standen bisher einzelne Person und die Daten des Einzelnen im Fokus.
+
+Aber, Daten gehören oft nicht nur uns allein.
+Und die digitae Dienste nutzen wir oft in Kooperation mit anderen Personen
+
+Und eine Institution, in der besonders viele persönliche Daten ausgetauscht und gemeinsam genutzt werden ist die Familie.
+
+Wenn das kein Grund ist, sich das Thema genauer anzugucken
+-->
+
 
 ---
 
-# Familien als Zielgruppe
+# Die Familie als Zielgruppe
 
-* Familien verbinden mehrere Nutzer und Geräte
 * Gemeinsame Daten und Dienste fördern langfristige Bindung
-* Anbieter verkaufen Familiengruppen, Abos und Verwaltung
-* Kinder wachsen oft in ein Ökosystem hinein
-* Ein Wechsel wird schwieriger, wenn vieles davon abhängt
+* Kinder wachsen in ein Ökosystem hinein
+* Starker Lockin Effekt
+* Anbieter verkaufen Familiengruppen zusätzliche Abos und Dienste
 * Verknüpfte Familiendaten sind für Werbezwecke interessant
 
-Beispiele: Google Family, Microsoft Family, Apple Family Sharing, Proton Family
-
+<Admonition  title="Familien Dienste " color="teal-light" width="500px" >
+Google One, Youtube Kids, Microsoft 365 Family, Spotify Family, Steam Family, Apple Family Sharing, Komoot Family
+</Admonition>
 
 <!-- 
-Frage an das Publikum:  Eltern legen bei der Geburt eine E-Mail-Adresse an.
+Frage an das Publikum: Wer hat eine Email-Addresse für seine Kinder angelegt?
 
 Interessante Zielgruppe
-Viele Produkte, die auf Familien zugeschnitten sind: Das neuste Google CC
-Unterschiedliche Schwerpunkte und Fokus
-Interessante Profildaten für Werbekunden
-Viele große und kleine Firmen sehen Familien als interessante Zielgruppe für zusätzliche Dienste.
-Lock-in-Effekt: Kinder bleiben beim Anbieter
-Auch das BSI und Verbraucherzentralen haben Informationen zur Familien IT
+
+Starker Lockin Effekt: Es ist schwieriger als Familie das Ökosystem zu wechseln 
+Viele Produkte, die auf Familien zugeschnitten sind: 
+Viele sind kostenlos, aber oft gibt es auch Zusatzdienste, die man bezahlen muss.
+Um fair zu bleiben, auch kleinere Firmen machen das. Mailbox, Proton, Tuta
+
+Viele von den kleinen 
+
+
 -->
 
 
@@ -72,32 +82,34 @@ Auch das BSI und Verbraucherzentralen haben Informationen zur Familien IT
 
 # Die digitalen Daten einer Familie
 
-* Bilder, Filme und Dokumente
+* Bilder, Filme, Spiele und Dokumente
 * Accounts, Passwörter und Zugangsdaten
 * Kalenderdaten
 * Kontakte
 * Chat-Nachrichten
 
 <!-- 
-So, von welchen Daten und Diensten reden wir?
-Familien können sich eventuell auch Accounts und Passwörter teilen 
+Von welchen Daten und Diensten reden wir?
 -->
 
 ---
 
-# Dienste und IT-Infrastruktur
+# Gemeinsam genutzte Dienste 
+
 * Cloudspeicher ( z.B. für Fotos, Dokumente )
 * E-Mail-Provider
 * Messenger
-* Streaming-Dienste
+* Streaming- und SpeielDienste
 * Internet-Provider
 * Passwort-Manager
 
 <!-- 
 Die konkrete Ausprägung ist sehr unterschiedlich
-Vieles Punkte kommen uns bekannt vor
+Vieles Punkte kommen uns aber uns bekannt vor: 
 -->
 
+---
+layout: side-title
 ---
 
 # Wer ist Teil der Familien-IT?
@@ -105,10 +117,12 @@ Vieles Punkte kommen uns bekannt vor
 Familien-IT ist vielfälltig
 
 * Familie: Ehepartner und Kinder
-* Eigene Eltern und Verwandte: Großeltern, Onkel, Tanten usw.
-* Freunde und Bekannte: enge Freunde, Nachbarn usw.
+* Eigene Eltern und Verwandte
+* Freunde und Bekannte
 
 <!-- 
+
+Familie kann auch die WG sein,
 
 So unterschiedlich wie eine Familien IT aussehen kann, so kann man auch den Begriff Familie sehr weit fassen:
 Von Eltern mit Kinder bis zu einer StundenWG
@@ -226,6 +240,7 @@ Wir sollten uns über Dokumentation unterhalten!
 
 <!--
  Eine Lösung: Dokumentation
+ Hätte ich meiner Mutter das Passwort und die URL auf einen gelben Zettel geschrieben, würde das meinem Bruder wahrscheinlich helfen
  Mag keiner, viele verdrängen das
  Inhalt kann varieren
  Notfalls kann man die Dokumentation einem Experten geben
@@ -269,16 +284,14 @@ Online-Services
 ## Auslöser:
 * Krankheit und Tod
 * Urlaub oder längere Abwesenheit
-* Account- oder Geräteausfall
 
 ## Folgen
 * Zugänge und Daten sind nicht erreichbar
 * Niemand kennt Passwörter und Zuständigkeiten
-* Dokumentation oder Backups fehlen
 
 ## Was hilft?
 * Dokumentation für mehrere Personen
-* Unabhängige, geschützte Backups
+* Vertretungs und Recoveryoptionen nutzen
 * Wiederherstellung regelmäßig testen
 
 
@@ -286,12 +299,12 @@ Online-Services
 
 Wir haben jetzt dokumentiert: Ist denn damit die Digitale Unabhängigkeit gerettet?
 
-Wir schauen uns mal ein paar Beispielenotfälle an
+Wir schauen uns mal ein paar Beispielnotfälle an
 
 Die Auflistung ist nicht vollständig
-Und manchmal kommt ein Problem nicht allein
+Und manchmal kommt ein Problem nicht allein: Vielleicht ist jemand nicht erreichbar, aber solange das Internet geht ist das nicht schlimm
 
-Beispiele  haben wir eben schon aufgezählt:
+Beispiele haben wir eben schon aufgezählt:
 Das Internet geht nicht, aber keiner weiß das Passwort der Fritzbox, weil der Familien Administrator in Urlaub ist.
 Es ist unklar, welche blinkende Kästchen im Keller dafür zustandig ist.
 Kein Zugriff oder Verlust von Dokumenten und Photos weil man auf die Accounts nicht mehr zugreifen kann.
@@ -345,6 +358,9 @@ Eine Person muss die Familien-IT verlassen können, ohne sie lahmzulegen oder Da
 <!-- 
 Verlassen der Familien-IT: Es muss nicht die Scheidung, manchmal verlassen die Kinder den Haushalt
 
+Vielleicht möchten meine Kinder einmal ihre Fotos und Dokumente mitnehmen
+Und ich muss mir Gedanken machen, ob sie mir noch gehören
+
 Bei Trennung kommen noch Problem der Sabotage dazu
 Passwörter werden geändert, Dokumente gelöscht usw
 
@@ -359,7 +375,7 @@ Passwörter werden geändert, Dokumente gelöscht usw
 * Privatsphäre in der Familie
 * Kinder auf dem Weg in die Selbstständigkeit
 * Backups und Recovery
-* Alternativen zu Google & Co
+* FamilienIT ohne US Riesen
 * Praktische Umsetzung
 * Digitaler Nachlass
 
@@ -374,23 +390,30 @@ Ich habe das Thema: Familienadministrator und dokumentation fand ich am wichtigs
 
 ## Erste Schritte
 
-* Prioritäten sowie wichtige Dienste und Daten klären
 * Familien-IT dokumentieren und Inventar erstellen
-* Wichtige Zugänge sicher dokumentieren
+* Dabei Prioritäten setzen
 * Recovery- und Vertretungsoptionen einrichten
-* Zuständigkeiten klären sowie Backups einrichten und Wiederherstellung testen
+* Zuständigkeiten klären 
+* Backups einrichten und Wiederherstellung testen
 
 
 <!-- 
+
+
 Erste Schritte unabhängig wie die Famlien IT aussieht,
 Die kann man immer noch umbauen, erstmal geht es um den Ist-Zustand
 -->
 
 ---
 
-TODO: Hier Links zum github account einbauen, eventuell auch linkin 
+Die Folien findet ihr hier: 
 
+<QRCode value="https://github.com/hnaussed/digitale-unabhaengigkeit-in-der-familie" :size="200" render-as="svg" />
 
+<!--
+Fragen?
+
+-->
 
 ---
 
