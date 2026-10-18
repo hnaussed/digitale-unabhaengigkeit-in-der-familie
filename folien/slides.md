@@ -2,7 +2,7 @@
 theme: neversink
 title: Digitale Unabhängigkeit in der Familie
 author: Holger Nausséd
-neversink_slug: 'DiDay 2026'
+neversink_slug: 'DI.DAY 2026'
 ---
 
 # Digitale Unabhängigkeit in der Familie
@@ -11,20 +11,28 @@ neversink_slug: 'DiDay 2026'
 
 Daten gehören uns oft nicht allein.
 
+
+<!--
+Mein Name ist Holger Nausséd, bisher habe man mich hier nur als Zuschauer gesehen:
+Warum ist das diesmal anderes
+Es viel Aufwand so eine Vortrag vorzubereiten und auch wenn es nicht meine Komfortzone ist hier zu stehen, ich finde DiDay ist eine unterstützendswerte Veranstaltung
+
+Und ich habe das Thema "Digitale unabhängigkeit in der Familie" mitgebraucht
+-->
 ---
 layout: section
 ---
 
 # Motivation
 
-Was ist Digitale Unanhängigkeit?
+Was ist Digitale Unabhängigkeit?
 
 <!-- 
 Bevor wir loslegen
 Was ist digitale Unabhängigkeit?
 
-Der Begriff wird auch im Rahmen der Abhängigkeit der EU von der USA verwendet
-Oder der Abhängigkeit der städtischer IT von Microsoft
+Der Begriff wird oft verwendet
+Digital Unabhängigkeit der EU, von Firmen, von der städischen IT.
 
 Im Rahmen dieser Veranstaltung reden mehr über digitale Unabhängigkeit im privaten Umfeld
 
@@ -41,11 +49,11 @@ Aber eventuell harmonieren staatliche Interessen nicht mit meinen Bedürfniss na
 Bei den meisten Vorträgen standen bisher einzelne Person und die Daten des Einzelnen im Fokus.
 
 Aber, Daten gehören oft nicht nur uns allein.
-Und die digitae Dienste nutzen wir oft in Kooperation mit anderen Personen
+Und die digitae Dienste nutzen wir oft zusammen mit anderen Personen
 
 Und eine Institution, in der besonders viele persönliche Daten ausgetauscht und gemeinsam genutzt werden ist die Familie.
 
-Wenn das kein Grund ist, sich das Thema genauer anzugucken
+Für mich war das Grund mir das Thema genauer anzugucken
 -->
 
 
@@ -55,7 +63,7 @@ Wenn das kein Grund ist, sich das Thema genauer anzugucken
 
 * Gemeinsame Daten und Dienste fördern langfristige Bindung
 * Kinder wachsen in ein Ökosystem hinein
-* Starker Lockin Effekt
+* Starker Lock-in-Effekt
 * Anbieter verkaufen Familiengruppen zusätzliche Abos und Dienste
 * Verknüpfte Familiendaten sind für Werbezwecke interessant
 
@@ -68,7 +76,7 @@ Frage an das Publikum: Wer hat eine Email-Addresse für seine Kinder angelegt?
 
 Interessante Zielgruppe
 
-Starker Lockin Effekt: Es ist schwieriger als Familie das Ökosystem zu wechseln 
+Starker Lock-in-Effekt: Es ist schwieriger als Familie das Ökosystem zu wechseln 
 Viele Produkte, die auf Familien zugeschnitten sind: 
 Viele sind kostenlos, aber oft gibt es auch Zusatzdienste, die man bezahlen muss.
 Um fair zu bleiben, auch kleinere Firmen machen das. Mailbox, Proton, Tuta
@@ -119,7 +127,7 @@ Wichtig ist, das Personen Daten und Dienste teilen.
 
 # Wer ist Teil der Familien-IT?
 
-Familien-IT ist vielfälltig
+Familien-IT ist vielfältig
 
 * Familie: Ehepartner und Kinder
 * Eigene Eltern und Verwandte
@@ -141,16 +149,18 @@ Von Eltern mit Kinder bis zu einer StundentenWG
 
 
 <Admonition v-click title="Digitale Unabhängigkeit" color="teal-light" width="300px"></Admonition>
-<Admonition v-click title="Kostenminimierung" color="teal-light" width="300px"></Admonition>
-<Admonition v-click title="Wenig Aufwand" color="teal-light" width="300px"></Admonition>
-<Admonition v-click title="Privatsphaere" color="teal-light" width="300px"></Admonition>
-<Admonition v-click title="Sicherheit" color="teal-light" width="300px"></Admonition>
-<Admonition v-click title="Verfuegbarkeit" color="teal-light" width="300px"></Admonition>
+<Admonition v-click title="Kostenminimierung" color="orange-light" width="300px"></Admonition>
+<Admonition v-click title="Wenig Aufwand" color="sky-light" width="300px"></Admonition>
+<Admonition v-click title="Privatsphäre" color="rose-light" width="300px"></Admonition>
+<Admonition v-click title="Sicherheit" color="slate-light" width="300px"></Admonition>
+<Admonition v-click title="Verfügbarkeit" color="violet-light" width="300px"></Admonition>
 <Admonition v-click title="Und vieles mehr" color="teal-light" width="300px"></Admonition>	
 	
 
 <!--
-Da erkennt man schnell: Da gibt es Zielkonflikte
+Wie sieht eine Familien IT aus?
+Es haengt von den Zielen ab
+Digitale Unabhängigkeit nur eine von vielen und Zielen
 -->
 ---
 layout: two-cols-header
@@ -158,13 +168,12 @@ layout: two-cols-header
 ::left::
 
 # Zielkonflikte
-* Ziele stehen im Konflikt
 * Bin ich bereit, für digitale Unabhängigkeit Geld auszugeben, und wenn ja, wie viel?
 * Wie viel Aufwand und Energie bin ich bereit zu investieren?
 * Alles in ein Ökosystem? Oder lieber aufteilen?
 
 <!-- 
-Digitale Unabhängigkeit nur eine von vielen und Zielen
+Da erkennt man schnell: Da gibt es Zielkonflikte
 Manche Ziele ergeben sich aus äußeren Zwängen: Geld ist so einer
 Manchmal gibt es auch zu den eigenen Zielen keine Lösung
 -->
@@ -172,28 +181,36 @@ Manchmal gibt es auch zu den eigenen Zielen keine Lösung
 ::right::
 
 # Zusätzliche Hürden in Familien
-* Wie setzt man als Familie Prioritäten?
-* Konsensfindung in der Familie
+
+Wie setzt man als Familie Prioritäten?
+
+* Eventuell Zielkonflikte innerhalb der Familie
 * Unterschiedliche Prioritäten in der Familie
-* Unterschiedliches Wissen in der Familie
+* Unterschiedliches Wissen oder Use Cases in der Familie
+* Konsensfindung in der Familie
 
 <!-- 
-Ähnlich wie bei Einzelpersonen, aber es gibt zusätzliche Hürden und Probleme für Familien
-Man ist allein und braucht einen Konsens
+Das mit den Zielkonflikten ist auf bei Einzelpersonen aus so:
+Aber es gibt zusätzliche Hürden und Probleme für Familien
+Man ist nicht allein und eventuel muss man einen Konsens finden:
 
+Nehmen wir an, ich bin bequem und würde gerne Problem mit Google Diensten erschlagen, während meine Tochter, regelmäßige Besucherin des DiDay, mehr auf Digitale Unabhängigkeit und Privatsühäre setzt und sich ihren ersten Raspberry Pi geholt hat um die Familien IT umzugestalten.
 
-
+Konsensfindung ist nicht Teil des Vortrages
 -->
 
 ---
 layout: section
 ---
 
-# Konkretes Gefahren für die Digitale Unabhängigkeit in der Familie
+# Konkrete Gefahren für die Digitale Unabhängigkeit in der Familie
 
 <!-- 
 
-Wir haben viel über Familien-IT geredet, 
+Wir haben viel über Familien-IT geredet
+Die konkrete Gestelltung um Umsetzung von Familien IT ist heute nicht Thema.
+Vieles was wir in den letzten Monaten gelernt habem gilt aber auch für Familien IT
+Es sollte aber klar geworden sein, dass es auch Besonderheiten gibt
 
 -->
 
@@ -204,7 +221,7 @@ Wenn eine Person ausfällt …
 
 * Nur eine Person kennt die Familien-IT
 * Zugänge und Zuständigkeiten sind unklar
-* Wichtige Daten und Dienste werden unerreichbar
+* Wichtige Daten und Dienste sind unerreichbar
 * Krankheit, Tod, Trennung oder Urlaub können reichen
 
 Eine Person darf kein Single Point of Failure sein.
@@ -214,71 +231,82 @@ Bisher haben wir immer von Tech Riesen geredet und wie sie untere Digitale Souve
 
 Aber egal wie die konkrete Familien IT aussieht ( US Cloud Dienste und der FamilienServer im Keller), es bleibt das Problem des Familien Adminstrators
 
-Wie Familie kann man den Begriff sehr weit fassen
+Wie Familie kann man auch den Begriff Adminstraotr sehr weit fassen
 
 Zur Veranschaulichung folgendes Szenario: Ein Nerd managed die IT der Familie: eigener DNS Server, Firewall, Familien Domäne die beim Mail-Provider liegt, FileServer usw
+Und dann gibt eine unglückliche Verkettung von Umständen: Krankheit oder Kreuzfahrt in der Arktis
+Und gleichzeitig:  Ein Zertifikat laeuft ab und plötzlich geht zu Hause das Internet nicht mehr und die daheim gebliebenen Kinder zu Hause wissen noch nichtmal welches blinkende Kästchen fürs Internet zuständig ist.
 
 
-Und dann passiert irgendwas: Krankheit oder Safari in Afrika 
-Und gleichzeitig:  Zertifikat laeuft ab, der Passwortsafe liegen auf eine quantensicher verschlüsselten USB Stick und plötzlich geht das Internet nicht mehr
+Es muss nicht der männliche IT-Nerd sein, der sich selbst verwirklicht: Auch Kinder die die IT der Eltern managen: 
+Jung meine Fritz.box blinkt und das Wlan geht nicht mehr. Und das wenn man nach dem Weihnachtsessen auf dem Weg nach Hause.
 
 
-Es muss nicht der männliche IT-Nerd sein, der sich selbst verwirklicht: Auch Kinder die die IT der Eltern managen: Jung meine Fritz.box blinkt und das Wlan geht nicht mehr
-Es muss auch nicht eine Person sein
-Verschiedene Formen und Ausprägungen
-
-Notfälle und ungünstige Verkettungen sind Vielfälltig: Tod, Scheidung, Hardwaredefekte und Urlaub
+Die Art von Abhängigkeit die Art der Notfälle und ungünstige Verkettungen sind Vielfälltig: Tod, Scheidung, Hardwaredefekte und Urlaub
 
 Digitale Abhängigkeit von einer Person ist ein Problem für die digitale Unabhängigkeit
 -->
+---
+layout: section
 ---
 
 # Dokumentation der Familien-IT
 
 Wir sollten uns über Dokumentation unterhalten!
 
-* Geräte, Dienste und Daten erfassen
-* Accounts und Wiederherstellungsoptionen dokumentieren
-* Backups und Speicherorte dokumentieren
-* Zuständigkeiten dokumentieren
-* Kenntnisstand der Familie berücksichtigen
-* Dokumentation gemeinsam überprüfen
-* Wiederherstellung üben
+<!--
+ Eine Lösung: Dokumentation
+ Hätte ich meiner Mutter das Passwort der fritz box und die Zugangsdaten auf einen gelben Zettel geschrieben, würde das meinem Bruder wahrscheinlich helfen
+ Oder wenn ich, bevor ich zum Camping in namibischen Nationalpark meine IT Landschaft dokumentieren, können meine Kinder diese einem IT Expperten geben
+ Der konkrete Inhalt kann varieren: Wenn ich vor allem Clouddienste benutze sieht die Dokumentation anders aus, als wenn ich vieles selber hosze
+-->
 
- Die IT-Dokumentation gehört in den Notfallordner.
+---
+
+# Was sollte man dokumentieren
+* Geräte, Dienste und Daten
+* Accounts und Wiederherstellungsoptionen
+* Backups und Speicherorte
+* Zuständigkeiten 
 
 <!--
  Eine Lösung: Dokumentation
- Hätte ich meiner Mutter das Passwort und die URL auf einen gelben Zettel geschrieben, würde das meinem Bruder wahrscheinlich helfen
- Mag keiner, viele verdrängen das
- Inhalt kann varieren
- Notfalls kann man die Dokumentation einem Experten geben
+ Hätte ich meiner Mutter das Passwort der fritz box und die Zugangsdaten auf einen gelben Zettel geschrieben, würde das meinem Bruder wahrscheinlich helfen
+ Oder wenn ich, bevor ich zum Camping in namibischen Nationalpark meine IT Landschaft dokumentieren, können meine Kinder diese einem IT Expperten geben
+ Der konkrete Inhalt kann varieren: Wenn ich vor allem Clouddienste benutze sieht die Dokumentation anders aus, als wenn ich vieles selber hosze
+
+Frage: Hat jemand einen Notfallordner?
+
+Diese Informatione sind Teil des Notfallordners:
+Patientenverfügung, Urkunden und Vollmachten, Information über Banken und Versicherungen uvm
 
 
- Wenn man schon dabei ist, man kann direkt anfangen noch andere Sachen zu dokumentieren: Bankdaten, Versicherung usw
- Teil des Notfallordners
 
-Hat jemand einen Notfallordner?
+
 -->
 
 ---
 
 # Wie dokumentiert man die Familien-IT?
 
-* Niedrigschwellig beginnen: Papier, PDF,  USB-Stick 
+* Niedrigschwellig beginnen: Papier, PDF, Markdown, USB-Stick 
 * Backup-Best-Practices beachten: Mehrere Kopien an verschiedenen Ort aufbewahren
 * Sicherheit und Zugriffsschutz beachten
 * Dokumentation regelmäßig aktualisieren
 * Zuständigkeiten und Änderungen festhalten
+* Kenntnisstand der Familie berücksichtigen
+* Dokumentation gemeinsam überprüfen
+* Wiederherstellung üben
 
+<Admonition title="Custom Styled" color="purple-light" custom="text-lg font-bold" customTitle="text-red-500">
  Die beste Dokumentation ist eine, die im Notfall gefunden und verstanden werden kann.
+</Admonition>
 
 <!-- 
-Ok, die Doku sollte gefunden und verstanden werden und bei Notfällen helfen
-Es gibt Backup-Best Practices, die sollte man beachten: Verteile Kopiene
 Teilweise muss Passwörter dokumentieren, die dürfen auf keinen Fall in fremde Hände gegraten,
-Eventuell auf: Verschlüsselung, Passwortsafe
-Online-Services
+
+Die Dokumentation ist nicht nur für einen selber: Ehepartner, Kinder oder einen Exporten
+
 -->
 
 ---
@@ -300,7 +328,7 @@ Online-Services
 
 ## Was hilft?
 * Dokumentation für mehrere Personen
-* Vertretungs und Recoveryoptionen nutzen
+* Vertretungs- und Recovery-Optionen nutzen
 * Wiederherstellung regelmäßig testen
 
 
@@ -320,7 +348,7 @@ Kein Zugriff oder Verlust von Dokumenten und Photos weil man auf die Accounts ni
 Passwörter für verschlüsselte Dokumente fehlen.
 
 Dokumentation würde hier helfen, aber die Qualität der Dokumentation ist wichtig
-Gleichzeitig bieten manche Cloud-Dienstleister für solche Fälle Vertretungs und Recovery-Optionen an. Die sollte man in der Dokumenation erwähnen und nutzen
+Gleichzeitig bieten manche Cloud-Dienstleister für solche Fälle Vertretungs- und Recovery-Optionen an. Die sollte man in der Dokumenation erwähnen und nutzen
 
 
 Aber: Dokumentation hilft nicht bei allen Notfällen und reicht alleine nicht, das sehen wir an den nächsten Beispielen
@@ -384,7 +412,7 @@ Passwörter werden geändert, Dokumente gelöscht usw
 * Privatsphäre in der Familie
 * Kinder auf dem Weg in die Selbstständigkeit
 * Backups und Recovery
-* FamilienIT ohne US Riesen
+* Familien-IT ohne US-Riesen
 * Praktische Umsetzung
 * Digitaler Nachlass
 
