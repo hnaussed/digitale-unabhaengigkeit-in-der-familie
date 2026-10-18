@@ -224,7 +224,11 @@ Wenn eine Person ausfällt …
 * Wichtige Daten und Dienste sind unerreichbar
 * Krankheit, Tod, Trennung oder Urlaub können reichen
 
+<Admonition title="Custom Styled" color="purple-light" custom="text-lg font-bold" customTitle="text-red-500">
 Eine Person darf kein Single Point of Failure sein.
+</Admonition>
+
+
 
 <!-- 
 Bisher haben wir immer von Tech Riesen geredet und wie sie untere Digitale Souveränität untergraben.
@@ -245,6 +249,8 @@ Jung meine Fritz.box blinkt und das Wlan geht nicht mehr. Und das wenn man nach 
 Die Art von Abhängigkeit die Art der Notfälle und ungünstige Verkettungen sind Vielfälltig: Tod, Scheidung, Hardwaredefekte und Urlaub
 
 Digitale Abhängigkeit von einer Person ist ein Problem für die digitale Unabhängigkeit
+
+Single Point of Failure: Die eine Karte im Karten im Kartenhaus
 -->
 ---
 layout: section
@@ -456,7 +462,8 @@ layout: two-cols-header
 ---
 ::left::
 
-Die Folien findet ihr hier: 
+# Die Folien findet ihr hier
+
 
 <QRCode value="https://github.com/hnaussed/digitale-unabhaengigkeit-in-der-familie" :size="200" render-as="svg" />
 
