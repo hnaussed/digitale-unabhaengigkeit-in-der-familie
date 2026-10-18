@@ -303,9 +303,10 @@ Patientenverfügung, Urkunden und Vollmachten, Information über Banken und Vers
 </Admonition>
 
 <!-- 
+Niedrigschwelligkeit vs Zugriffsschutz: Das ist ein Konflikt
 Teilweise muss Passwörter dokumentieren, die dürfen auf keinen Fall in fremde Hände gegraten,
 
-Die Dokumentation ist nicht nur für einen selber: Ehepartner, Kinder oder einen Exporten
+Die Dokumentation ist nicht nur für einen selber: Ehepartner, Kinder oder einen Experten
 
 -->
 
@@ -400,8 +401,6 @@ Und ich muss mir Gedanken machen, ob sie mir noch gehören
 
 Bei Trennung kommen noch Problem der Sabotage dazu
 Passwörter werden geändert, Dokumente gelöscht usw
-
-
 -->
 
 ---
@@ -412,18 +411,26 @@ Passwörter werden geändert, Dokumente gelöscht usw
 * Privatsphäre in der Familie
 * Kinder auf dem Weg in die Selbstständigkeit
 * Backups und Recovery
-* Familien-IT ohne US-Riesen
-* Praktische Umsetzung
+* Praktische Umsetzung von Familien-IT
+* Familien-IT ohne US-Unternehmen
 * Digitaler Nachlass
 
 <!-- 
 30 Minuten sind nicht viel für so ein umfangreiches Thema
-Wit treffen uns seit fast einem Jahr und uns gehen die Themen nichts aus
-Ich habe das Thema: Familienadministrator und dokumentation fand ich am wichtigsten
+
 -->
 ---
+layout: top-title
+color: light
+---
+
+:: title ::
 
 # Fazit
+
+:: content ::
+
+Die Abhängigkeit von der Person, die die Familien-IT organisiert, ist auch eine digitale Abhängigkeit. 
 
 ## Erste Schritte
 
@@ -435,22 +442,28 @@ Ich habe das Thema: Familienadministrator und dokumentation fand ich am wichtigs
 
 
 <!-- 
+Man sollte sich seiner Verantwortung bewusst sein, das ist unabhängig ob ich den Google Account mit den Familien verwalte oder einen Immich Dienst zu Hause aufsetze.
+Im schlimmsten Fall ist die Daten Weg
 
+* Dokumentation und Backup sind nicht optional
 
-Erste Schritte unabhängig wie die Famlien IT aussieht,
+Erste Schritte sind erstmal unabhängig wie die Famlien IT aussieht,
 Die kann man immer noch umbauen, erstmal geht es um den Ist-Zustand
 -->
 
 ---
+layout: two-cols-header
+---
+::left::
 
 Die Folien findet ihr hier: 
 
 <QRCode value="https://github.com/hnaussed/digitale-unabhaengigkeit-in-der-familie" :size="200" render-as="svg" />
 
-<!--
-Fragen?
+::right::
 
--->
+# Fragen?
+
 
 ---
 
@@ -458,4 +471,5 @@ Fragen?
 # Quellen und weiterführende Informationen
 * https://www.my-it-brain.de/wordpress/dokumentation-fuer-den-notfall-bzw-das-digitale-erbe/
 * https://www.my-it-brain.de/wordpress/nerds-gefaehrden-die-digitale-souveraenitaet-ihrer-familie/
+* https://www.drweb.de/notfallhandbuch-fuer-familie/
 
