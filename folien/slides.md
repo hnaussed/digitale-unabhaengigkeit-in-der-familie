@@ -154,7 +154,7 @@ Von Eltern mit Kinder bis zu einer StundentenWG
 <Admonition v-click title="Privatsphäre" color="rose-light" width="300px"></Admonition>
 <Admonition v-click title="Sicherheit" color="slate-light" width="300px"></Admonition>
 <Admonition v-click title="Verfügbarkeit" color="violet-light" width="300px"></Admonition>
-<Admonition v-click title="Und vieles mehr" color="teal-light" width="300px"></Admonition>	
+<Admonition  title="Und vieles mehr" color="teal-light" width="300px"></Admonition>	
 	
 
 <!--
@@ -224,6 +224,7 @@ Wenn eine Person ausfällt …
 * Wichtige Daten und Dienste sind unerreichbar
 * Krankheit, Tod, Trennung oder Urlaub können reichen
 
+your smart home will outlive you
 <Admonition title="Custom Styled" color="purple-light" custom="text-lg font-bold" customTitle="text-red-500">
 Eine Person darf kein Single Point of Failure sein.
 </Admonition>
@@ -273,6 +274,7 @@ Wir sollten uns über Dokumentation unterhalten!
 * Geräte, Dienste und Daten
 * Accounts und Wiederherstellungsoptionen
 * Backups und Speicherorte
+* Notfall-Anleitungen
 * Zuständigkeiten 
 
 <!--
@@ -295,6 +297,8 @@ Patientenverfügung, Urkunden und Vollmachten, Information über Banken und Vers
 
 # Wie dokumentiert man die Familien-IT?
 
+<v-clicks>
+
 * Niedrigschwellig beginnen: Papier, PDF, Markdown, USB-Stick 
 * Backup-Best-Practices beachten: Mehrere Kopien an verschiedenen Ort aufbewahren
 * Sicherheit und Zugriffsschutz beachten
@@ -304,7 +308,9 @@ Patientenverfügung, Urkunden und Vollmachten, Information über Banken und Vers
 * Dokumentation gemeinsam überprüfen
 * Wiederherstellung üben
 
-<Admonition title="Custom Styled" color="purple-light" custom="text-lg font-bold" customTitle="text-red-500">
+</v-clicks>
+
+<Admonition v-click title="Wichtig" color="purple-light" custom="text-lg font-bold" customTitle="text-red-500">
  Die beste Dokumentation ist eine, die im Notfall gefunden und verstanden werden kann.
 </Admonition>
 
@@ -318,7 +324,39 @@ Die Dokumentation ist nicht nur für einen selber: Ehepartner, Kinder oder einen
 
 ---
 
-# Konkrete Beispiele
+# Weitere Information zu Notfallordern
+* Dr Web: Haben Sie schon ein Notfallhandbuch für die Familie?
+* My It Brain Blog: Speziele Zielgruppe
+* Stiftung Warentest: 
+    * Informationen schwer zu finden
+    * Notfallsets sind nicht im digitalen Zeitalter angekommen
+    
+
+
+
+<!--
+Man findet Informatione zu dem Thema, oft aber im Bereich Digitaler Nachlass
+
+Viele gesponserte Links zu pdf Vordrucken und Online Diensten
+
+Für Laien
+https://www.drweb.de/notfallhandbuch-fuer-familie/
+
+IT Brain: Vorlage zu dem Vortrag. 
+https://www.my-it-brain.de/wordpress/dokumentation-fuer-den-notfall-bzw-das-digitale-erbe/
+
+https://robbsutton.com/your-smart-home-will-outlive-you-a-digital-legacy-guide/
+
+
+
+Stiftung Warentest: Nicht leicht zu finden
+https://www.test.de/Aufbewahrungsfristen-Welche-Unterlagen-Sie-nicht-wegwerfen-sollten-5033069-0/
+https://www.test.de/Digitaler-Nachlass-Facebook-Instagram-Google-Konten-vererben-5028585-0/
+
+
+
+
+-->
 
 
 ---
