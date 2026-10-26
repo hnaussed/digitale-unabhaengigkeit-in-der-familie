@@ -303,7 +303,6 @@ Patientenverfügung, Urkunden und Vollmachten, Information über Banken und Vers
 * Backup-Best-Practices beachten: Mehrere Kopien an verschiedenen Ort aufbewahren
 * Sicherheit und Zugriffsschutz beachten
 * Dokumentation regelmäßig aktualisieren
-* Zuständigkeiten und Änderungen festhalten
 * Kenntnisstand der Familie berücksichtigen
 * Dokumentation gemeinsam überprüfen
 * Wiederherstellung üben
@@ -315,8 +314,8 @@ Patientenverfügung, Urkunden und Vollmachten, Information über Banken und Vers
 </Admonition>
 
 <!-- 
-Niedrigschwelligkeit vs Zugriffsschutz: Das ist ein Konflikt
-Teilweise muss Passwörter dokumentieren, die dürfen auf keinen Fall in fremde Hände gegraten,
+Niedrigschwelligkeit vs Zugriffsschutz: Da ist ein Konflikt
+Teilweise müssen Passwörter dokumentiert werden, die dürfen auf keinen Fall in fremde Hände gegraten.
 
 Die Dokumentation ist nicht nur für einen selber: Ehepartner, Kinder oder einen Experten
 
@@ -326,36 +325,24 @@ Die Dokumentation ist nicht nur für einen selber: Ehepartner, Kinder oder einen
 
 # Weitere Information zu Notfallordern
 * Dr Web: Haben Sie schon ein Notfallhandbuch für die Familie?
-* My It Brain Blog: Speziele Zielgruppe
-* Stiftung Warentest: 
-    * Informationen schwer zu finden
-    * Notfallsets sind nicht im digitalen Zeitalter angekommen
-    
+* Stiftung Warentest 
+   
 
 
 
 <!--
-Man findet Informatione zu dem Thema, oft aber im Bereich Digitaler Nachlass
 
-Viele gesponserte Links zu pdf Vordrucken und Online Diensten
+Man findet Informatione zu dem Thema, oft aber in verwandten Bereichen: zB Digitaler Nachlass
 
-Für Laien
-https://www.drweb.de/notfallhandbuch-fuer-familie/
+Viele pdf-Vordrucke 
+Es gibt auch Online-Dienste
 
-IT Brain: Vorlage zu dem Vortrag. 
-https://www.my-it-brain.de/wordpress/dokumentation-fuer-den-notfall-bzw-das-digitale-erbe/
+Die Informationen bei Stiftung Warentest waren mittelmäsig
+ * Informationen schwer zu finden: Aufbewachungsfristen von Dokumenten
+ * Notfallsets sind nicht im digitalen Zeitalter angekommen
+    
 
-https://robbsutton.com/your-smart-home-will-outlive-you-a-digital-legacy-guide/
-
-
-
-Stiftung Warentest: Nicht leicht zu finden
-https://www.test.de/Aufbewahrungsfristen-Welche-Unterlagen-Sie-nicht-wegwerfen-sollten-5033069-0/
-https://www.test.de/Digitaler-Nachlass-Facebook-Instagram-Google-Konten-vererben-5028585-0/
-
-
-
-
+Für Laien: Dr Web
 -->
 
 
@@ -381,7 +368,7 @@ https://www.test.de/Digitaler-Nachlass-Facebook-Instagram-Google-Konten-vererben
 
 Wir haben jetzt dokumentiert: Ist denn damit die Digitale Unabhängigkeit gerettet?
 
-Wir schauen uns mal ein paar Beispielnotfälle an
+Wir schauen uns Beispielnotfälle konkret an und prüfen eine Dokumentation in dem Fall geholfen haätte
 
 Die Auflistung ist nicht vollständig
 Und manchmal kommt ein Problem nicht allein: Vielleicht ist jemand nicht erreichbar, aber solange das Internet geht ist das nicht schlimm
@@ -474,25 +461,30 @@ color: light
 
 :: content ::
 
-Die Abhängigkeit von der Person, die die Familien-IT organisiert, ist auch eine digitale Abhängigkeit. 
+Die Abhängigkeit von der Person, ist auch eine digitale Abhängigkeit. 
 
 ## Erste Schritte
 
-* Familien-IT dokumentieren und Inventar erstellen
-* Dabei Prioritäten setzen
+* Familien-IT dokumentieren und ein Inventar erstellen
+* Prioritäten setzen
 * Recovery- und Vertretungsoptionen einrichten
-* Zuständigkeiten klären 
 * Backups einrichten und Wiederherstellung testen
 
+<Admonition  title="" color="purple-light" custom="text-lg font-bold" width="300px" v-drag="[584,249,305,69]">
+Perfekt ist der Feind von gut.
+</Admonition>
 
-<!-- 
-Man sollte sich seiner Verantwortung bewusst sein, das ist unabhängig ob ich den Google Account mit den Familien verwalte oder einen Immich Dienst zu Hause aufsetze.
-Im schlimmsten Fall ist die Daten Weg
+<!--
+Abh
 
-* Dokumentation und Backup sind nicht optional
+Man sollte sich seiner Verantwortung für die Daten meiner Familie bewusst sein:
+Doku
+Backup
+Wiederherstellung
 
-Erste Schritte sind erstmal unabhängig wie die Famlien IT aussieht,
-Die kann man immer noch umbauen, erstmal geht es um den Ist-Zustand
+Mal anfangen
+Nicht in Details verlieren: „Perfekt ist der Feind von gut.“ 
+Nicht die perfekte Lösung suchen
 -->
 
 ---
@@ -511,10 +503,15 @@ layout: two-cols-header
 
 
 ---
-
+# Inspiriationen zu diesem Vortrag
+* Nerds gefährden die digitale Souveränität ihrer Familie:
+  https://programm.froscon.org/froscon2026/talk/9d8cd41d-b647-437c-866d-ed5788c57205/
+* Your Smart Home Will Outlive You: A Digital Legacy Guide:
+  https://robbsutton.com/your-smart-home-will-outlive-you-a-digital-legacy-guide/
 
 # Quellen und weiterführende Informationen
 * https://www.my-it-brain.de/wordpress/dokumentation-fuer-den-notfall-bzw-das-digitale-erbe/
 * https://www.my-it-brain.de/wordpress/nerds-gefaehrden-die-digitale-souveraenitaet-ihrer-familie/
 * https://www.drweb.de/notfallhandbuch-fuer-familie/
-
+* https://www.test.de/Aufbewahrungsfristen-Welche-Unterlagen-Sie-nicht-wegwerfen-sollten-5033069-0/
+* https://www.test.de/Digitaler-Nachlass-Facebook-Instagram-Google-Konten-vererben-5028585-0/
