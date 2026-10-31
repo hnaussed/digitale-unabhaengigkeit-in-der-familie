@@ -332,34 +332,14 @@ Die Dokumentation ist nicht nur für einen selber: Ehepartner, Kinder oder einen
 -->
 
 ---
-
-# Weitere Informationen zu Notfallordnern
-* Dr. Web: Haben Sie schon ein Notfallhandbuch für die Familie?
-* Stiftung Warentest 
-   
-
-
-
-<!--
-
-Man findet Informatione zu dem Thema, oft aber in verwandten Bereichen: zB Digitaler Nachlass
-
-Viele pdf-Vordrucke 
-Es gibt auch Online-Dienste
-
-Die Informationen bei Stiftung Warentest waren mittelmäsig
- * Informationen schwer zu finden: Aufbewachungsfristen von Dokumenten
- * Notfallsets sind nicht im digitalen Zeitalter angekommen
-    
-
-Für Laien: Dr Web
--->
-
-
+layout: top-title-two-cols
+color: violet
 ---
 
+:: title ::
 # Notfälle in der Familien-IT
 
+:: left ::
 Der Familien-Administrator ist nicht verfügbar
 
 ## Auslöser
@@ -370,6 +350,7 @@ Der Familien-Administrator ist nicht verfügbar
 * Zugänge, Daten und internes Wissen sind nicht verfügbar
 * Niemand kennt Passwörter
 
+::right::
 ## Was hilft?
 * Dokumentation
 * Vertretungs- und Recovery-Optionen 
@@ -397,18 +378,27 @@ Den zugegebenen harmlosen Fall kann man übertragen
 -->
 
 ---
+layout: top-title-two-cols
+color: violet
+---
 
-# Notfälle in der Familien-IT II
+:: title ::
+# Notfälle in der Familien-IT
 
-## Verlust von Accounts
+:: left ::
+Verlust von Accounts
+
+## Auslöser
 * Vergessene Zugangsdaten
 * Account gesperrt oder übernommen
 
 ## Folgen
 * Kein Zugriff auf Fotos, Dokumente und Nachrichten
 
-## Vorbeugen
-* Wichtige Daten unabhängig sichern
+::right::
+## Was hilft?
+* Dokumentation
+* Wichtige Daten sichern
 * Recovery-Optionen überprüfen
 
 <!--
@@ -417,11 +407,15 @@ Bei der FamilienIT ist das schwerwiegender. Es betrifft mehrere Personen
 
 Das betrifft sowohl Clouddienste, als auch selbstgehostete Dienste oder verschlüsselte USB-Sticks. 
 
+Bleiben wir bei dem Fritzbox-Beispiel:
+ enn ich mich nicht mehr an das Passwort erinnern kann, muss ich die Fritzbox zurücksetzen.
+
 Bei vergessenen Zugangsdaten würde Dokumentation helfen!
 Bei gesperrten oder übernommen Accounts eventuell nicht mehr.
 
 Man sollte vorsorgen und vorbeugen, damit nicht das ganze digitale Leben der Familie weg ist.
-Backup und Recovery 
+Backup und Recovery: 
+Fritzboxbeispiel: Ich könnte sie wiederherstellen
 
 -->
 
@@ -486,8 +480,8 @@ color: light
 * Recovery- und Vertretungsoptionen einrichten
 * Backups einrichten und Wiederherstellung testen
 
-<Admonition  title="" color="purple-light" custom="text-lg font-bold" width="300px" v-drag="[584,249,305,69]">
-Perfekt ist der Feind von gut.
+<Admonition  title="" color="purple-light" custom="text-lg font-bold" width="300px" v-drag="[581,386,326,74]">
+Perfekt ist der Feind von gut
 </Admonition>
 
 <!--
@@ -506,30 +500,33 @@ Nicht die perfekte Lösung suchen
 -->
 
 ---
-layout: two-cols-header
+
+## Zum Vertiefen
+* [BSI: IT-Support im Kreis der Familie](https://www.bsi.bund.de/DE/Service-Navi/Abonnements/Newsletter/Buerger-CERT-Abos/Newsletter-Einfach-Cybersicher/Einfach_Cybersicher_260114/_documents/Basics_3_IT-Support_Familie.html)
+* [my-it-brain: Dokumentation für den Notfall bzw. das digitale Erbe](https://www.my-it-brain.de/wordpress/dokumentation-fuer-den-notfall-bzw-das-digitale-erbe/)
+* [Dr. Web: Haben Sie schon ein Notfallhandbuch für die Familie?](https://www.drweb.de/notfallhandbuch-fuer-familie/)
+* [Stiftung Warentest: Welche Fristen gelten – wie Sie Ordnung halten](https://www.test.de/Aufbewahrungsfristen-Welche-Unterlagen-Sie-nicht-wegwerfen-sollten-5033069-0/)
+* [Stiftung Warentest: So regeln Sie Ihren digitalen Nachlass](https://www.test.de/Digitaler-Nachlass-Facebook-Instagram-Google-Konten-vererben-5028585-0/)
+
+## Inspirationen zu diesem Vortrag
+* [Nerds gefährden die digitale Souveränität ihrer Familie](https://programm.froscon.org/froscon2026/talk/9d8cd41d-b647-437c-866d-ed5788c57205/)
+* [Your Smart Home Will Outlive You: A Digital Legacy Guide](https://robbsutton.com/your-smart-home-will-outlive-you-a-digital-legacy-guide/)
+
+
+Alle Links auch im Repo (QR-Code)
+
+<!--
+
+
+-->
 ---
-::left::
+layout: two-cols-title
+---
 
+:: left ::
 # Die Folien findet ihr hier
-
 
 <QRCode value="https://github.com/hnaussed/digitale-unabhaengigkeit-in-der-familie" :size="200" render-as="svg" />
 
 ::right::
-
 # Fragen?
-
-
----
-# Inspirationen zu diesem Vortrag
-* Nerds gefährden die digitale Souveränität ihrer Familie:
-  https://programm.froscon.org/froscon2026/talk/9d8cd41d-b647-437c-866d-ed5788c57205/
-* Your Smart Home Will Outlive You: A Digital Legacy Guide:
-  https://robbsutton.com/your-smart-home-will-outlive-you-a-digital-legacy-guide/
-
-# Quellen und weiterführende Informationen
-* https://www.my-it-brain.de/wordpress/dokumentation-fuer-den-notfall-bzw-das-digitale-erbe/
-* https://www.my-it-brain.de/wordpress/nerds-gefaehrden-die-digitale-souveraenitaet-ihrer-familie/
-* https://www.drweb.de/notfallhandbuch-fuer-familie/
-* https://www.test.de/Aufbewahrungsfristen-Welche-Unterlagen-Sie-nicht-wegwerfen-sollten-5033069-0/
-* https://www.test.de/Digitaler-Nachlass-Facebook-Instagram-Google-Konten-vererben-5028585-0/
