@@ -25,7 +25,7 @@ layout: section
 
 # Motivation
 
-Was ist Digitale Unabhängigkeit?
+Was ist digitale Unabhängigkeit?
 
 <!-- 
 Bevor wir loslegen
@@ -67,7 +67,7 @@ Für mich war das Grund mir das Thema genauer anzugucken
 * Anbieter verkaufen Familiengruppen zusätzliche Abos und Dienste
 * Verknüpfte Familiendaten sind für Werbezwecke interessant
 
-<Admonition  title="Familien Dienste " color="teal-light" width="500px" >
+<Admonition  title="Familiendienste" color="teal-light" width="500px" >
 Google One, Youtube Kids, Microsoft 365 Family, Spotify Family, Steam Family, Apple Family Sharing, Komoot Family
 </Admonition>
 
@@ -154,7 +154,7 @@ Von Eltern mit Kinder bis zu einer StundentenWG
 <Admonition v-click title="Privatsphäre" color="rose-light" width="300px"></Admonition>
 <Admonition v-click title="Sicherheit" color="slate-light" width="300px"></Admonition>
 <Admonition v-click title="Verfügbarkeit" color="violet-light" width="300px"></Admonition>
-<Admonition  title="Und vieles mehr" color="teal-light" width="300px"></Admonition>	
+<Admonition v-click title="Und vieles mehr" color="teal-light" width="300px"></Admonition>	
 	
 
 <!--
@@ -163,11 +163,18 @@ Es haengt von den Zielen ab
 Digitale Unabhängigkeit nur eine von vielen und Zielen
 -->
 ---
-layout: two-cols-header
+layout: side-title
+side: l
+color: violet
+titlewidth: is-2
+
 ---
-::left::
+:: title ::
 
 # Zielkonflikte
+
+::content::
+
 * Bin ich bereit, für digitale Unabhängigkeit Geld auszugeben, und wenn ja, wie viel?
 * Wie viel Aufwand und Energie bin ich bereit zu investieren?
 * Alles in ein Ökosystem? Oder lieber aufteilen?
@@ -177,15 +184,23 @@ Da erkennt man schnell: Da gibt es Zielkonflikte
 Manche Ziele ergeben sich aus äußeren Zwängen: Geld ist so einer
 Manchmal gibt es auch zu den eigenen Zielen keine Lösung
 -->
-
-::right::
+---
+layout: side-title
+side: r
+color: violet
+titlewidth: is-2
+title: Zusätzliche Hürden in Familien
+---
+:: title ::
 
 # Zusätzliche Hürden in Familien
 
+::content::
+
+
 Wie setzt man als Familie Prioritäten?
 
-* Eventuell Zielkonflikte innerhalb der Familie
-* Unterschiedliche Prioritäten in der Familie
+* Eventuell Zielkonflikte durch unterschiedliche Prioritäten innerhalb der Familie
 * Unterschiedliches Wissen oder Use Cases in der Familie
 * Konsensfindung in der Familie
 
@@ -203,7 +218,7 @@ Konsensfindung ist nicht Teil des Vortrages
 layout: section
 ---
 
-# Konkrete Gefahren für die Digitale Unabhängigkeit in der Familie
+# Konkrete Gefahren für die digitale Unabhängigkeit in der Familie
 
 <!-- 
 
@@ -224,8 +239,7 @@ Wenn eine Person ausfällt …
 * Wichtige Daten und Dienste sind unerreichbar
 * Krankheit, Tod, Trennung oder Urlaub können reichen
 
-your smart home will outlive you
-<Admonition title="Custom Styled" color="purple-light" custom="text-lg font-bold" customTitle="text-red-500">
+<Admonition title="" color="purple-light" custom="text-lg font-bold" customTitle="text-red-500">
 Eine Person darf kein Single Point of Failure sein.
 </Admonition>
 
@@ -262,15 +276,11 @@ layout: section
 Wir sollten uns über Dokumentation unterhalten!
 
 <!--
- Eine Lösung: Dokumentation
- Hätte ich meiner Mutter das Passwort der fritz box und die Zugangsdaten auf einen gelben Zettel geschrieben, würde das meinem Bruder wahrscheinlich helfen
- Oder wenn ich, bevor ich zum Camping in namibischen Nationalpark meine IT Landschaft dokumentieren, können meine Kinder diese einem IT Expperten geben
- Der konkrete Inhalt kann varieren: Wenn ich vor allem Clouddienste benutze sieht die Dokumentation anders aus, als wenn ich vieles selber hosze
 -->
 
 ---
 
-# Was sollte man dokumentieren
+# Was sollte man dokumentieren?
 * Geräte, Dienste und Daten
 * Accounts und Wiederherstellungsoptionen
 * Backups und Speicherorte
@@ -300,7 +310,7 @@ Patientenverfügung, Urkunden und Vollmachten, Information über Banken und Vers
 <v-clicks>
 
 * Niedrigschwellig beginnen: Papier, PDF, Markdown, USB-Stick 
-* Backup-Best-Practices beachten: Mehrere Kopien an verschiedenen Ort aufbewahren
+* Backup-Best-Practices beachten: Mehrere Kopien an verschiedenen Orten aufbewahren
 * Sicherheit und Zugriffsschutz beachten
 * Dokumentation regelmäßig aktualisieren
 * Kenntnisstand der Familie berücksichtigen
@@ -323,8 +333,8 @@ Die Dokumentation ist nicht nur für einen selber: Ehepartner, Kinder oder einen
 
 ---
 
-# Weitere Information zu Notfallordern
-* Dr Web: Haben Sie schon ein Notfallhandbuch für die Familie?
+# Weitere Informationen zu Notfallordnern
+* Dr. Web: Haben Sie schon ein Notfallhandbuch für die Familie?
 * Stiftung Warentest 
    
 
@@ -350,45 +360,47 @@ Für Laien: Dr Web
 
 # Notfälle in der Familien-IT
 
-## Auslöser:
+Der Familien-Administrator ist nicht verfügbar
+
+## Auslöser
 * Krankheit und Tod
 * Urlaub oder längere Abwesenheit
 
 ## Folgen
-* Zugänge und Daten sind nicht erreichbar
-* Niemand kennt Passwörter und Zuständigkeiten
+* Zugänge, Daten und internes Wissen sind nicht verfügbar
+* Niemand kennt Passwörter
 
 ## Was hilft?
-* Dokumentation für mehrere Personen
-* Vertretungs- und Recovery-Optionen nutzen
-* Wiederherstellung regelmäßig testen
+* Dokumentation
+* Vertretungs- und Recovery-Optionen 
+* Wiederherstellung üben
 
 
 <!--
 
-Wir haben jetzt dokumentiert: Ist denn damit die Digitale Unabhängigkeit gerettet?
+Wir haben dokumentiert: Ist denn damit die Digitale Unabhängigkeit gerettet?
+Wir schauen uns einige Beispielnotfälle an, die mit einem Familien Administrator zu tuen haben
+und prüfen ob Dokumentation in dem Fall helfen würde
 
-Wir schauen uns Beispielnotfälle konkret an und prüfen eine Dokumentation in dem Fall geholfen haätte
 
-Die Auflistung ist nicht vollständig
-Und manchmal kommt ein Problem nicht allein: Vielleicht ist jemand nicht erreichbar, aber solange das Internet geht ist das nicht schlimm
+Bleiben wir beim Beispiel mit dem Internet meiner Eltern
 
-Beispiele haben wir eben schon aufgezählt:
-Das Internet geht nicht, aber keiner weiß das Passwort der Fritzbox, weil der Familien Administrator in Urlaub ist.
-Es ist unklar, welche blinkende Kästchen im Keller dafür zustandig ist.
-Kein Zugriff oder Verlust von Dokumenten und Photos weil man auf die Accounts nicht mehr zugreifen kann.
-Passwörter für verschlüsselte Dokumente fehlen.
+vielleicht ist bin ich nicht erreichbar, aber solange das Internet geht und meine Mutter Tatort gucken kann, ist das nicht schlimm
+Aber wenn dann noch ein Internettausfall dazukommt und ich nicht erreichbar bim, würde meinem Bruder ein gelber Zettel mit Passwort sicher helfen.
+Meiner Mutter hätte das nicht gereicht. Da hätte ich wahrscheinlich eine Schritt für Schritt Anleitung schreiben müssen
 
 Dokumentation würde hier helfen, aber die Qualität der Dokumentation ist wichtig
+
 Gleichzeitig bieten manche Cloud-Dienstleister für solche Fälle Vertretungs- und Recovery-Optionen an. Die sollte man in der Dokumenation erwähnen und nutzen
 
-
-Aber: Dokumentation hilft nicht bei allen Notfällen und reicht alleine nicht, das sehen wir an den nächsten Beispielen
+Den zugegebenen harmlosen Fall kann man übertragen
 -->
 
 ---
 
-# Verlust von Accounts
+# Notfälle in der Familien-IT II
+
+## Verlust von Accounts
 * Vergessene Zugangsdaten
 * Account gesperrt oder übernommen
 
@@ -400,15 +412,16 @@ Aber: Dokumentation hilft nicht bei allen Notfällen und reicht alleine nicht, d
 * Recovery-Optionen überprüfen
 
 <!--
+Account-Verlust kann jeden treffen, man muss nicht beim internationalen Strafgerichtshof arbeiten.
+Bei der FamilienIT ist das schwerwiegender. Es betrifft mehrere Personen
 
+Das betrifft sowohl Clouddienste, als auch selbstgehostete Dienste oder verschlüsselte USB-Sticks. 
 
-Account-Verlust kann jeden treffen, man muss nicht beim internationalen Strafgerichtshof arbeiten
-Und man sollte vorsorgen und vorbeugen, damit nicht das ganze digitale Leben der Familie weg ist.
+Bei vergessenen Zugangsdaten würde Dokumentation helfen!
+Bei gesperrten oder übernommen Accounts eventuell nicht mehr.
 
-Betrifft eventuell die ganze Familie
-
-Hier hilft Dokumentation nicht mehr
-
+Man sollte vorsorgen und vorbeugen, damit nicht das ganze digitale Leben der Familie weg ist.
+Backup und Recovery 
 
 -->
 
@@ -431,7 +444,7 @@ Vielleicht möchten meine Kinder einmal ihre Fotos und Dokumente mitnehmen
 Und ich muss mir Gedanken machen, ob sie mir noch gehören
 
 Bei Trennung kommen noch Problem der Sabotage dazu
-Passwörter werden geändert, Dokumente gelöscht usw
+Passwörter werden geändert, Dokumente gelöscht 
 -->
 
 ---
@@ -461,7 +474,10 @@ color: light
 
 :: content ::
 
-Die Abhängigkeit von der Person, ist auch eine digitale Abhängigkeit. 
+* Die Abhängigkeit von der Person ist auch eine digitale Abhängigkeit. 
+* Die eigene IT wird einen überleben
+* Dokumentation ist wichtig
+* Backups aber auch 
 
 ## Erste Schritte
 
@@ -475,12 +491,14 @@ Perfekt ist der Feind von gut.
 </Admonition>
 
 <!--
-Abh
+Ein Fazit, ich habe vier!
 
 Man sollte sich seiner Verantwortung für die Daten meiner Familie bewusst sein:
 Doku
 Backup
-Wiederherstellung
+Wiederherstellung macht man nicht nur für sich selber
+
+Daraus folgen die ersten schritte.
 
 Mal anfangen
 Nicht in Details verlieren: „Perfekt ist der Feind von gut.“ 
@@ -503,7 +521,7 @@ layout: two-cols-header
 
 
 ---
-# Inspiriationen zu diesem Vortrag
+# Inspirationen zu diesem Vortrag
 * Nerds gefährden die digitale Souveränität ihrer Familie:
   https://programm.froscon.org/froscon2026/talk/9d8cd41d-b647-437c-866d-ed5788c57205/
 * Your Smart Home Will Outlive You: A Digital Legacy Guide:
