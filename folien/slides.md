@@ -2,7 +2,7 @@
 theme: neversink
 title: Digitale Unabhängigkeit in der Familie
 author: Holger Nausséd
-neversink_slug: 'DI.DAY 2026'
+neversink_slug: 'DI.DAY 01.11.2026: „Digitale Unabhängigkeit in der Familie“'
 ---
 
 # Digitale Unabhängigkeit in der Familie
@@ -13,9 +13,9 @@ Daten gehören uns oft nicht allein.
 
 
 <!--
-Mein Name ist Holger Nausséd, bisher habe man mich hier nur als Zuschauer gesehen:
+Bisher habe man mich hier nur als Zuschauer gesehen:
 Warum ist das diesmal anderes
-Es viel Aufwand so eine Vortrag vorzubereiten und auch wenn es nicht meine Komfortzone ist hier zu stehen, ich finde DiDay ist eine unterstützendswerte Veranstaltung
+Es viel Aufwand so eine Vortrag vorzubereiten und  ich finde DiDay ist eine unterstützendswerte Veranstaltung
 
 Und ich habe das Thema "Digitale unabhängigkeit in der Familie" mitgebraucht
 -->
@@ -32,14 +32,12 @@ Bevor wir loslegen
 Was ist digitale Unabhängigkeit?
 
 Der Begriff wird oft verwendet
-Digital Unabhängigkeit der EU, von Firmen, von der städischen IT.
+Digital Unabhängigkeit der EU, von Firmen, von der städischen IT von Darmstadt
 
 Im Rahmen dieser Veranstaltung reden mehr über digitale Unabhängigkeit im privaten Umfeld
 
-Wenn wir auf der Diday Seite gucken, da gibt es ein umfangreiches FAQ
-aber wenn ich eigenen Worten zusammenfassen soll:
 
-selbstbestimmtest und unabhängiges digitales Leben zu führen. 
+Für mich wäre das ein "selbstbestimmtes digitales Leben" zu führen. 
 
 Und da gibt es Hindernisse
 
@@ -80,9 +78,6 @@ Starker Lock-in-Effekt: Es ist schwieriger als Familie das Ökosystem zu wechsel
 Viele Produkte, die auf Familien zugeschnitten sind: 
 Viele sind kostenlos, aber oft gibt es auch Zusatzdienste, die man bezahlen muss.
 Um fair zu bleiben, auch kleinere Firmen machen das. Mailbox, Proton, Tuta
-
-Viele von den kleinen 
-
 
 -->
 
@@ -224,7 +219,7 @@ layout: section
 
 Wir haben viel über Familien-IT geredet
 Die konkrete Gestelltung um Umsetzung von Familien IT ist heute nicht Thema.
-Vieles was wir in den letzten Monaten gelernt habem gilt aber auch für Familien IT
+Vieles was wir in den letzten Monaten gelernt habem gilt aber auch für Familien IT: z.B die Themen Messenger, Email und Office
 Es sollte aber klar geworden sein, dass es auch Besonderheiten gibt
 
 -->
@@ -254,7 +249,7 @@ Wie Familie kann man auch den Begriff Adminstraotr sehr weit fassen
 
 Zur Veranschaulichung folgendes Szenario: Ein Nerd managed die IT der Familie: eigener DNS Server, Firewall, Familien Domäne die beim Mail-Provider liegt, FileServer usw
 Und dann gibt eine unglückliche Verkettung von Umständen: Krankheit oder Kreuzfahrt in der Arktis
-Und gleichzeitig:  Ein Zertifikat laeuft ab und plötzlich geht zu Hause das Internet nicht mehr und die daheim gebliebenen Kinder zu Hause wissen noch nichtmal welches blinkende Kästchen fürs Internet zuständig ist.
+Und gleichzeitig: Eine Familien-Domäne laeuft ab, plötzlich gehen diverse Dienste zu Hause nicht mehr und Mails kommen nicht mehr an. Und der Rest der Familie stehen vor einen Gewirr von Kabel und blinkenden Lichtern und versuchen sich zu erklären, was gerade schief laeuft. und niemand weiß das es eine Domaine gibt und wo sie registriert ist?
 
 
 Es muss nicht der männliche IT-Nerd sein, der sich selbst verwirklicht: Auch Kinder die die IT der Eltern managen: 
@@ -324,7 +319,7 @@ Patientenverfügung, Urkunden und Vollmachten, Information über Banken und Vers
 </Admonition>
 
 <!-- 
-Niedrigschwelligkeit vs Zugriffsschutz: Da ist ein Konflikt
+Niedrigschwelligkeit vs Zugriffsschutz: Da ist ein Konflikt. Hier können keepass passwort manager helfen oder verschlüsselung?
 Teilweise müssen Passwörter dokumentiert werden, die dürfen auf keinen Fall in fremde Hände gegraten.
 
 Die Dokumentation ist nicht nur für einen selber: Ehepartner, Kinder oder einen Experten
@@ -374,7 +369,7 @@ Dokumentation würde hier helfen, aber die Qualität der Dokumentation ist wicht
 
 Gleichzeitig bieten manche Cloud-Dienstleister für solche Fälle Vertretungs- und Recovery-Optionen an. Die sollte man in der Dokumenation erwähnen und nutzen
 
-Den zugegebenen harmlosen Fall kann man übertragen
+Den zugegebenen harmlosen Fall mit der Fritz-box kann man auch auf ernstere Fälle übertragen
 -->
 
 ---
@@ -403,19 +398,22 @@ Verlust von Accounts
 
 <!--
 Account-Verlust kann jeden treffen, man muss nicht beim internationalen Strafgerichtshof arbeiten.
+Einem Chefankläger wurden nach dem US Sanktionen Accounts gesperrt und das digitale Leben gesperrt.
 Bei der FamilienIT ist das schwerwiegender. Es betrifft mehrere Personen
 
 Das betrifft sowohl Clouddienste, als auch selbstgehostete Dienste oder verschlüsselte USB-Sticks. 
 
 Bleiben wir bei dem Fritzbox-Beispiel:
- enn ich mich nicht mehr an das Passwort erinnern kann, muss ich die Fritzbox zurücksetzen.
+ Wenn ich mich nicht mehr an das Passwort erinnern kann, muss ich die Fritzbox zurücksetzen.
 
 Bei vergessenen Zugangsdaten würde Dokumentation helfen!
 Bei gesperrten oder übernommen Accounts eventuell nicht mehr.
 
-Man sollte vorsorgen und vorbeugen, damit nicht das ganze digitale Leben der Familie weg ist.
-Backup und Recovery: 
-Fritzboxbeispiel: Ich könnte sie wiederherstellen
+Ein Beispiel sind Kontosperrungen wegen Verletzung der Nutzungsbedingungen, weil ein Familienvater Fotos seines Sohnes zu einem Arzt geschickt hat
+
+In diesem Fall hätte Dokumentation nicht mehr geholfen
+Backup, Fallback-Lösungen und Recovery: 
+
 
 -->
 
@@ -440,7 +438,7 @@ Eine Person muss die Familien-IT verlassen können, ohne sie lahmzulegen oder Da
 Verlassen der Familien-IT: Es muss nicht die Scheidung, manchmal verlassen die Kinder den Haushalt
 
 Vielleicht möchten meine Kinder einmal ihre Fotos und Dokumente mitnehmen
-Und ich muss mir Gedanken machen, ob sie mir noch gehören
+Und ich muss mir Gedanken machen, wem Dokumente und Fotos gehören
 
 Bei Trennung kommen noch Problem der Sabotage dazu
 Passwörter werden geändert, Dokumente gelöscht 
@@ -492,10 +490,10 @@ Perfekt ist der Feind von gut
 <!--
 Ein Fazit, ich habe vier!
 
-Man sollte sich seiner Verantwortung für die Daten meiner Familie bewusst sein:
-Doku
+Man sollte sich seiner Verantwortung für die Daten meiner Familie bewusst sein und daraus ein persönliches Interesse haben für:
+Geeignete Dokumentation
 Backup
-Wiederherstellung macht man nicht nur für sich selber
+Wiederherstellung-Optionen, die auch Notfalls die Familie versteht.
 
 Daraus folgen die ersten schritte.
 
