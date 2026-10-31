@@ -420,9 +420,14 @@ Fritzboxbeispiel: Ich könnte sie wiederherstellen
 -->
 
 ---
+layout: top-title
+color: violet
+---
 
+::title::
 # Trennung und Ausscheiden aus der Familien-IT
 
+::content::
 Eine Person muss die Familien-IT verlassen können, ohne sie lahmzulegen oder Daten anderer mitzunehmen.
 
 ## Besondere Vorkehrungen
@@ -459,7 +464,7 @@ Passwörter werden geändert, Dokumente gelöscht
 -->
 ---
 layout: top-title
-color: light
+color: purple
 ---
 
 :: title ::
