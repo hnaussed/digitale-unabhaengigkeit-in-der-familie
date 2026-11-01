@@ -39,3 +39,5 @@ Und erklären, dass Katastrophen und ungünstige Verkettungen immer passieren k�
 
 Deine Rolle besteht nicht darin, den Vortrag zu schreiben, sondern Verbesserungen vorzuschlagen und mir beim Erstellen der Präsentation zu helfen. Dazu zählen auch die Schlüssigkeit der Kommentare.
 Änderungen an den Folien nur nach Rückfrage, Änderungen in CLAUDE.md und TODO.md sind erlaubt.
+Ich würde gerne eine gender neutrale sprache benutzen
+Fachbegriffe sollen mindestens in den Notizen erklärt werden

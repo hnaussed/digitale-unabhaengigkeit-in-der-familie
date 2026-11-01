@@ -74,11 +74,10 @@ Frage an das Publikum: Wer hat eine Email-Addresse für seine Kinder angelegt?
 
 Interessante Zielgruppe
 
-Starker Lock-in-Effekt: Es ist schwieriger als Familie das Ökosystem zu wechseln 
+Starker Lock-in-Effekt: Das heißt, es ist schwieriger als Familie das Ökosystem zu wechseln 
 Viele Produkte, die auf Familien zugeschnitten sind: 
 Viele sind kostenlos, aber oft gibt es auch Zusatzdienste, die man bezahlen muss.
 Um fair zu bleiben, auch kleinere Firmen machen das. Mailbox, Proton, Tuta
-
 -->
 
 
@@ -124,9 +123,9 @@ Wichtig ist, das Personen Daten und Dienste teilen.
 
 Familien-IT ist vielfältig
 
-* Familie: Ehepartner und Kinder
+* Familie: Ehe- und Lebenspartner und Kinder
 * Eigene Eltern und Verwandte
-* Freunde und Bekannte
+* Freundekreis und Bekannte
 
 <!-- 
 Die Personenkreis kann eine klassische Familie sein
@@ -196,7 +195,7 @@ title: Zusätzliche Hürden in Familien
 Wie setzt man als Familie Prioritäten?
 
 * Eventuell Zielkonflikte durch unterschiedliche Prioritäten innerhalb der Familie
-* Unterschiedliches Wissen oder Use Cases in der Familie
+* Unterschiedliches Wissen oder Bedürfnisse in der Familie
 * Konsensfindung in der Familie
 
 <!-- 
@@ -249,7 +248,9 @@ Wie Familie kann man auch den Begriff Adminstraotr sehr weit fassen
 
 Zur Veranschaulichung folgendes Szenario: Ein Nerd managed die IT der Familie: eigener DNS Server, Firewall, Familien Domäne die beim Mail-Provider liegt, FileServer usw
 Und dann gibt eine unglückliche Verkettung von Umständen: Krankheit oder Kreuzfahrt in der Arktis
-Und gleichzeitig: Eine Familien-Domäne laeuft ab, plötzlich gehen diverse Dienste zu Hause nicht mehr und Mails kommen nicht mehr an. Und der Rest der Familie stehen vor einen Gewirr von Kabel und blinkenden Lichtern und versuchen sich zu erklären, was gerade schief laeuft. und niemand weiß das es eine Domaine gibt und wo sie registriert ist?
+Und gleichzeitig: Eine Familien-Domäne laeuft ab, plötzlich gehen diverse Dienste zu Hause nicht mehr und Mails kommen nicht mehr an. Und der Rest der Familie stehen vor einen Gewirr von Kabel und blinkenden Lichtern und versuchen sich zu erklären, was gerade schief laeuft. und niemand weiß das es eine Domaine  gibt und wo sie registriert ist?
+
+Eine Domäne ist eine eigene Internetadresse
 
 
 Es muss nicht der männliche IT-Nerd sein, der sich selbst verwirklicht: Auch Kinder die die IT der Eltern managen: 
@@ -335,7 +336,7 @@ color: violet
 # Notfälle in der Familien-IT
 
 :: left ::
-Der Familien-Administrator ist nicht verfügbar
+Die Familien-IT-Beauftragte ist nicht verfügbar
 
 ## Auslöser
 * Krankheit und Tod
@@ -404,7 +405,7 @@ Bei der FamilienIT ist das schwerwiegender. Es betrifft mehrere Personen
 Das betrifft sowohl Clouddienste, als auch selbstgehostete Dienste oder verschlüsselte USB-Sticks. 
 
 Bleiben wir bei dem Fritzbox-Beispiel:
- Wenn ich mich nicht mehr an das Passwort erinnern kann, muss ich die Fritzbox zurücksetzen.
+Wenn ich mich nicht mehr an das Passwort erinnern kann, muss ich die Fritzbox zurücksetzen.
 
 Bei vergessenen Zugangsdaten würde Dokumentation helfen!
 Bei gesperrten oder übernommen Accounts eventuell nicht mehr.
